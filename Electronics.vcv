@@ -26,7 +26,7 @@
     {
       "id": 100,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "MixMasterJr",
       "params": [
         {
@@ -495,7 +495,7 @@
     {
       "id": 101,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "AuxExpanderJr",
       "params": [
         {
@@ -12927,7 +12927,7 @@
     {
       "id": 923,
       "plugin": "Bogaudio",
-      "version": "1.1.36",
+      "version": "1.1.37",
       "model": "Bogaudio-AddrSeq",
       "params": [
         {
@@ -12993,7 +12993,7 @@
     {
       "id": 924,
       "plugin": "Bogaudio",
-      "version": "1.1.36",
+      "version": "1.1.37",
       "model": "Bogaudio-AddrSeq",
       "params": [
         {
@@ -13196,7 +13196,7 @@
     {
       "id": 930,
       "plugin": "Bogaudio",
-      "version": "1.1.36",
+      "version": "1.1.37",
       "model": "Bogaudio-Slew",
       "params": [
         {
@@ -13231,7 +13231,7 @@
     {
       "id": 931,
       "plugin": "Bogaudio",
-      "version": "1.1.36",
+      "version": "1.1.37",
       "model": "Bogaudio-Slew",
       "params": [
         {
@@ -13266,7 +13266,7 @@
     {
       "id": 932,
       "plugin": "Bogaudio",
-      "version": "1.1.36",
+      "version": "1.1.37",
       "model": "Bogaudio-Velo",
       "params": [
         {
@@ -13298,7 +13298,7 @@
     {
       "id": 933,
       "plugin": "Bogaudio",
-      "version": "1.1.36",
+      "version": "1.1.37",
       "model": "Bogaudio-Velo",
       "params": [
         {
@@ -13444,7 +13444,7 @@
     {
       "id": 937,
       "plugin": "Bogaudio",
-      "version": "1.1.36",
+      "version": "1.1.37",
       "model": "Bogaudio-FMOp",
       "params": [
         {
@@ -13616,7 +13616,7 @@
     {
       "id": 941,
       "plugin": "Bogaudio",
-      "version": "1.1.36",
+      "version": "1.1.37",
       "model": "Bogaudio-EightOne",
       "params": [
         {
@@ -14027,7 +14027,7 @@
     {
       "id": 983,
       "plugin": "Bogaudio",
-      "version": "1.1.36",
+      "version": "1.1.37",
       "model": "Bogaudio-FMOp",
       "params": [
         {
@@ -14505,7 +14505,7 @@
     {
       "id": 991,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "EqMaster",
       "params": [
         {
@@ -14538,7 +14538,7 @@
         },
         {
           "id": 7,
-          "value": 1.75885522
+          "value": 1.47087836
         },
         {
           "id": 8,
@@ -14554,15 +14554,15 @@
         },
         {
           "id": 11,
-          "value": 5.99999475
+          "value": -20.0
         },
         {
           "id": 12,
-          "value": 5.2200017
+          "value": 0.0
         },
         {
           "id": 13,
-          "value": 1.98000193
+          "value": 0.0
         },
         {
           "id": 14,
@@ -14570,7 +14570,7 @@
         },
         {
           "id": 15,
-          "value": 0.793152094
+          "value": 1.0
         },
         {
           "id": 16,
@@ -14785,7 +14785,7 @@
           2.5440681,
           3.60958338,
           3.69897008,
-          1.75885522,
+          1.47087836,
           2.5440681,
           3.17609119,
           3.69897008,
@@ -14883,9 +14883,9 @@
           0.0,
           5.69999981,
           0.0,
-          5.99999475,
-          5.2200017,
-          1.98000193,
+          -20.0,
+          0.0,
+          0.0,
           0.0,
           0.0,
           0.0,
@@ -14981,7 +14981,7 @@
           3.0,
           0.979650319,
           1.0,
-          0.793152094,
+          1.0,
           1.4524498,
           2.27984977,
           1.0,
@@ -17039,14 +17039,6 @@
       "color": "#0986ad"
     },
     {
-      "id": 3820,
-      "outputModuleId": 927,
-      "outputId": 2,
-      "inputModuleId": 929,
-      "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
       "id": 3822,
       "outputModuleId": 929,
       "outputId": 2,
@@ -17221,6 +17213,14 @@
       "inputModuleId": 941,
       "inputId": 3,
       "color": "#c9b70e"
+    },
+    {
+      "id": 3820,
+      "outputModuleId": 927,
+      "outputId": 2,
+      "inputModuleId": 929,
+      "inputId": 0,
+      "color": "#0986ad"
     }
   ]
 }

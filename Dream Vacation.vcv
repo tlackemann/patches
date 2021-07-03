@@ -26,7 +26,7 @@
     {
       "id": 100,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "MixMasterJr",
       "params": [
         {
@@ -115,7 +115,7 @@
         },
         {
           "id": 21,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 22,
@@ -353,7 +353,7 @@
         "momentaryCvButtons": 1,
         "masterFaderScalesSends": 0,
         "linearVolCvInputs": 0,
-        "id_t0_gainAdjust": 0.32508561,
+        "id_t0_gainAdjust": 1.0,
         "id_t0_fadeRate": 0.0,
         "id_t0_fadeProfile": 0.0,
         "id_t0_directOutsMode": 3,
@@ -495,7 +495,7 @@
     {
       "id": 101,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "AuxExpanderJr",
       "params": [
         {
@@ -845,7 +845,7 @@
     {
       "id": 102,
       "plugin": "Valley",
-      "version": "1.1.5",
+      "version": "1.1.7",
       "model": "Plateau",
       "params": [
         {
@@ -993,7 +993,7 @@
     {
       "id": 103,
       "plugin": "ImpromptuModular",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "model": "Clocked",
       "params": [
         {
@@ -1181,6 +1181,7 @@
           "value": 1.0
         }
       ],
+      "rightModuleId": 418,
       "data": {
         "WidgetWidth": 1605.0,
         "bufferSize": 512
@@ -1201,6 +1202,7 @@
           "value": 0.800000012
         }
       ],
+      "leftModuleId": 417,
       "pos": [
         107,
         0
@@ -3440,9 +3442,9 @@
             "qStartPos": -6,
             "rStartPos": 0,
             "startDir": 1,
-            "qPos": -5,
-            "rPos": -1,
-            "dir": 3,
+            "qPos": 2,
+            "rPos": -5,
+            "dir": 9,
             "turnMode": 0,
             "ninetyState": 0,
             "outMode": 2,
@@ -3453,9 +3455,9 @@
             "qStartPos": -6,
             "rStartPos": 1,
             "startDir": 1,
-            "qPos": 3,
-            "rPos": -1,
-            "dir": 9,
+            "qPos": 1,
+            "rPos": -6,
+            "dir": 3,
             "turnMode": 0,
             "ninetyState": 0,
             "outMode": 2,
@@ -3466,9 +3468,9 @@
             "qStartPos": -6,
             "rStartPos": 2,
             "startDir": 1,
-            "qPos": -5,
-            "rPos": 1,
-            "dir": 3,
+            "qPos": -3,
+            "rPos": -1,
+            "dir": 5,
             "turnMode": 0,
             "ninetyState": 0,
             "outMode": 2,
@@ -3479,9 +3481,9 @@
             "qStartPos": -6,
             "rStartPos": 3,
             "startDir": 1,
-            "qPos": -5,
-            "rPos": 2,
-            "dir": 3,
+            "qPos": 2,
+            "rPos": -2,
+            "dir": 9,
             "turnMode": 0,
             "ninetyState": 0,
             "outMode": 2,
@@ -3983,7 +3985,7 @@
     {
       "id": 510,
       "plugin": "CountModula",
-      "version": "1.13.0",
+      "version": "1.14.0",
       "model": "ClockDivider",
       "params": [
         {
@@ -3998,7 +4000,7 @@
       "rightModuleId": 503,
       "data": {
         "moduleVersion": 1,
-        "count": 382,
+        "count": 412,
         "theme": 2
       },
       "pos": [
@@ -4009,20 +4011,20 @@
     {
       "id": 511,
       "plugin": "Valley",
-      "version": "1.1.5",
+      "version": "1.1.7",
       "model": "Plateau",
       "params": [
         {
           "id": 0,
-          "value": 1.0
+          "value": 0.633001268
         },
         {
           "id": 1,
-          "value": 0.5
+          "value": 0.232499793
         },
         {
           "id": 2,
-          "value": 0.111000054
+          "value": 0.0
         },
         {
           "id": 3,
@@ -4030,19 +4032,19 @@
         },
         {
           "id": 4,
-          "value": 8.17000008
-        },
-        {
-          "id": 5,
-          "value": 0.457999945
-        },
-        {
-          "id": 6,
           "value": 10.0
         },
         {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 0.459998608
+        },
+        {
           "id": 7,
-          "value": 0.65253973
+          "value": 0.227336943
         },
         {
           "id": 8,
@@ -4098,7 +4100,7 @@
         },
         {
           "id": 21,
-          "value": 0.0749999881
+          "value": 0.0
         },
         {
           "id": 22,
@@ -4106,15 +4108,15 @@
         },
         {
           "id": 23,
-          "value": 0.0990000814
+          "value": 0.0
         },
         {
           "id": 24,
-          "value": 0.20100008
+          "value": 0.0
         },
         {
           "id": 25,
-          "value": 0.345000029
+          "value": 0.0
         },
         {
           "id": 26,
@@ -5416,7 +5418,7 @@
     {
       "id": 514,
       "plugin": "ImpromptuModular",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "model": "Gate-Seq-64",
       "params": [
         {
@@ -7916,7 +7918,8 @@
           0
         ],
         "resetOnRun": false,
-        "stopAtEndOfSong": false
+        "stopAtEndOfSong": false,
+        "lock": false
       },
       "pos": [
         41,
@@ -10006,7 +10009,7 @@
     {
       "id": 519,
       "plugin": "Valley",
-      "version": "1.1.5",
+      "version": "1.1.7",
       "model": "Plateau",
       "params": [
         {
@@ -10153,7 +10156,7 @@
     {
       "id": 521,
       "plugin": "VultModulesFree",
-      "version": "1.14",
+      "version": "1.15",
       "model": "Basal",
       "params": [
         {
@@ -10204,7 +10207,7 @@
     {
       "id": 525,
       "plugin": "Valley",
-      "version": "1.1.5",
+      "version": "1.1.7",
       "model": "Terrorform",
       "params": [
         {
@@ -10415,7 +10418,7 @@
       "leftModuleId": 530,
       "rightModuleId": 532,
       "data": {
-        "version": 115,
+        "version": 117,
         "panelStyle": 0,
         "displayStyle": 0,
         "lpgMode": 0,
@@ -10805,22 +10808,23 @@
     {
       "id": 540,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-Offset",
       "params": [
         {
           "id": 0,
-          "value": 0.496999502
+          "value": -0.400000006
         },
         {
           "id": 1,
-          "value": -0.142769963
+          "value": 0.316229999
         }
       ],
       "leftModuleId": 503,
       "rightModuleId": 509,
       "data": {
-        "disableOutputLimit": false
+        "disableOutputLimit": false,
+        "offset_first": false
       },
       "pos": [
         30,
@@ -11230,14 +11234,6 @@
       "color": "#0986ad"
     },
     {
-      "id": 2911,
-      "outputModuleId": 506,
-      "outputId": 3,
-      "inputModuleId": 511,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
       "id": 2925,
       "outputModuleId": 510,
       "outputId": 5,
@@ -11276,6 +11272,22 @@
       "inputModuleId": 521,
       "inputId": 0,
       "color": "#0986ad"
+    },
+    {
+      "id": 2911,
+      "outputModuleId": 506,
+      "outputId": 3,
+      "inputModuleId": 511,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 2932,
+      "outputModuleId": 506,
+      "outputId": 3,
+      "inputModuleId": 511,
+      "inputId": 1,
+      "color": "#c91847"
     }
   ]
 }

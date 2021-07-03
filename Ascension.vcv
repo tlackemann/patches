@@ -26,7 +26,7 @@
     {
       "id": 100,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "MixMasterJr",
       "params": [
         {
@@ -155,11 +155,11 @@
         },
         {
           "id": 31,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 32,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 33,
@@ -495,7 +495,7 @@
     {
       "id": 101,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "AuxExpanderJr",
       "params": [
         {
@@ -12927,7 +12927,7 @@
     {
       "id": 923,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-AddrSeq",
       "params": [
         {
@@ -12993,7 +12993,7 @@
     {
       "id": 924,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-AddrSeq",
       "params": [
         {
@@ -13196,7 +13196,7 @@
     {
       "id": 930,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-Slew",
       "params": [
         {
@@ -13213,6 +13213,10 @@
         },
         {
           "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
           "value": 0.0
         }
       ],
@@ -13227,7 +13231,7 @@
     {
       "id": 931,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-Slew",
       "params": [
         {
@@ -13245,6 +13249,10 @@
         {
           "id": 3,
           "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
         }
       ],
       "leftModuleId": 930,
@@ -13258,7 +13266,7 @@
     {
       "id": 932,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-Velo",
       "params": [
         {
@@ -13291,7 +13299,7 @@
     {
       "id": 933,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-Velo",
       "params": [
         {
@@ -13437,7 +13445,7 @@
     {
       "id": 937,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-FMOp",
       "params": [
         {
@@ -13492,7 +13500,9 @@
       "leftModuleId": 936,
       "rightModuleId": 983,
       "data": {
-        "linearLevel": false
+        "linearLevel": false,
+        "antialias_feedback": true,
+        "antialias_depth": true
       },
       "pos": [
         14,
@@ -13607,7 +13617,7 @@
     {
       "id": 941,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-EightOne",
       "params": [
         {
@@ -14018,7 +14028,7 @@
     {
       "id": 983,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-FMOp",
       "params": [
         {
@@ -14073,7 +14083,9 @@
       "leftModuleId": 937,
       "rightModuleId": 938,
       "data": {
-        "linearLevel": false
+        "linearLevel": false,
+        "antialias_feedback": true,
+        "antialias_depth": true
       },
       "pos": [
         24,
@@ -14493,7 +14505,7 @@
     {
       "id": 991,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "EqMaster",
       "params": [
         {
@@ -14506,7 +14518,7 @@
         },
         {
           "id": 2,
-          "value": -2.51999879
+          "value": -2.33999872
         },
         {
           "id": 3,
@@ -14542,7 +14554,7 @@
         },
         {
           "id": 11,
-          "value": 0.0
+          "value": -20.0
         },
         {
           "id": 12,
@@ -14875,7 +14887,7 @@
           0.0,
           0.0,
           0.0,
-          0.0,
+          -20.0,
           0.0,
           0.0,
           0.0,
@@ -15411,7 +15423,7 @@
         "trackGain": [
           0.0,
           -1.97999907,
-          -2.51999879,
+          -2.33999872,
           -10.5599995,
           0.0,
           0.0,
@@ -15561,7 +15573,7 @@
     {
       "id": 1036,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-Reftone",
       "params": [
         {
@@ -15588,7 +15600,7 @@
     {
       "id": 1037,
       "plugin": "Bogaudio",
-      "version": "1.1.35",
+      "version": "1.1.37",
       "model": "Bogaudio-Reftone",
       "params": [
         {

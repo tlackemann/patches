@@ -1,0 +1,127 @@
+{
+  "stripVersion": 1,
+  "rightModules": [
+    {
+      "id": 1923,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Merge",
+      "params": [],
+      "leftModuleId": 1929,
+      "rightModuleId": 1922,
+      "data": {
+        "channels": -1
+      }
+    },
+    {
+      "id": 1922,
+      "plugin": "Bogaudio",
+      "version": "1.1.37",
+      "model": "Bogaudio-Arp",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.5
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1923,
+      "rightModuleId": 1924,
+      "data": {
+        "notes_immediate": false,
+        "fixed_gate": false
+      }
+    },
+    {
+      "id": 1924,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Split",
+      "params": [],
+      "leftModuleId": 1922,
+      "rightModuleId": 1926
+    },
+    {
+      "id": 1926,
+      "plugin": "Bogaudio",
+      "version": "1.1.37",
+      "model": "Bogaudio-EightOne",
+      "params": [
+        {
+          "id": 0,
+          "value": 8.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1924,
+      "data": {
+        "poly_input": 8,
+        "select_on_clock": false,
+        "triggered_select": false,
+        "reverse_on_negative_clock": false
+      }
+    }
+  ],
+  "rightWidth": 285.0,
+  "leftModules": [],
+  "leftWidth": 0.0,
+  "cables": [
+    {
+      "outputModuleId": 1922,
+      "outputId": 0,
+      "inputModuleId": 1924,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "outputModuleId": 1923,
+      "outputId": 0,
+      "inputModuleId": 1922,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "outputModuleId": 1924,
+      "outputId": 0,
+      "inputModuleId": 1926,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "outputModuleId": 1924,
+      "outputId": 1,
+      "inputModuleId": 1926,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "outputModuleId": 1924,
+      "outputId": 2,
+      "inputModuleId": 1926,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "outputModuleId": 1924,
+      "outputId": 3,
+      "inputModuleId": 1926,
+      "inputId": 3,
+      "color": "#c9b70e"
+    }
+  ],
+  "version": "1.1.6"
+}

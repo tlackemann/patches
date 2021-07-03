@@ -4,7 +4,7 @@
     {
       "id": 100,
       "plugin": "MindMeldModular",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "model": "MixMasterJr",
       "params": [
         {
@@ -473,12 +473,12 @@
     {
       "id": 101,
       "plugin": "MindMeldModular",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "model": "AuxExpanderJr",
       "params": [
         {
           "id": 0,
-          "value": 0.0
+          "value": 0.289499789
         },
         {
           "id": 1,
@@ -971,7 +971,7 @@
     {
       "id": 103,
       "plugin": "ImpromptuModular",
-      "version": "1.1.10",
+      "version": "1.1.11",
       "model": "Clocked",
       "params": [
         {
@@ -1159,7 +1159,6 @@
           "value": 1.0
         }
       ],
-      "rightModuleId": 418,
       "data": {
         "WidgetWidth": 1605.0,
         "bufferSize": 512
@@ -1180,7 +1179,6 @@
           "value": 0.799999952
         }
       ],
-      "leftModuleId": 417,
       "pos": [
         136,
         0
@@ -1275,15 +1273,15 @@
         },
         {
           "id": 4,
-          "value": 0.54600209
+          "value": 0.370504171
         },
         {
           "id": 5,
-          "value": 0.755516112
+          "value": 0.740516722
         },
         {
           "id": 6,
-          "value": 0.646000385
+          "value": 0.763499081
         },
         {
           "id": 7,
@@ -1320,7 +1318,7 @@
     {
       "id": 721,
       "plugin": "JW-Modules",
-      "version": "1.0.25",
+      "version": "1.0.29",
       "model": "Quantizer",
       "params": [
         {
@@ -5670,7 +5668,7 @@
     {
       "id": 1506,
       "plugin": "MindMeldModular",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "model": "EqMaster",
       "params": [
         {
@@ -6854,7 +6852,7 @@
     {
       "id": 1516,
       "plugin": "ImpromptuModular",
-      "version": "1.1.10",
+      "version": "1.1.11",
       "model": "Gate-Seq-64",
       "params": [
         {
@@ -7200,7 +7198,7 @@
         "runModeSong3": 0,
         "stepIndexEdit": 31,
         "phraseIndexEdit": 0,
-        "sequence": 1,
+        "sequence": 0,
         "phrases": 4,
         "attributes2": [
           562,
@@ -9364,7 +9362,7 @@
     {
       "id": 1517,
       "plugin": "MindMeldModular",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "model": "MixMaster",
       "params": [
         {

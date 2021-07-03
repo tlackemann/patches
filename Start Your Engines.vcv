@@ -26,7 +26,7 @@
     {
       "id": 100,
       "plugin": "MindMeldModular",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "model": "MixMasterJr",
       "params": [
         {
@@ -151,19 +151,19 @@
         },
         {
           "id": 30,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 31,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 32,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 33,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 34,
@@ -495,7 +495,7 @@
     {
       "id": 101,
       "plugin": "MindMeldModular",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "model": "AuxExpanderJr",
       "params": [
         {
@@ -998,7 +998,7 @@
       "params": [
         {
           "id": 0,
-          "value": 105.0
+          "value": 112.0
         },
         {
           "id": 1,
@@ -1541,7 +1541,7 @@
         "currentStep": [
           11,
           1,
-          10,
+          12,
           5
         ],
         "clockState": [
@@ -1583,15 +1583,15 @@
         },
         {
           "id": 3,
-          "value": 0.0
+          "value": 0.198000073
         },
         {
           "id": 4,
-          "value": 0.312500149
+          "value": 0.377999485
         },
         {
           "id": 5,
-          "value": 0.151499987
+          "value": 0.217501119
         },
         {
           "id": 6,
@@ -1734,7 +1734,7 @@
         },
         {
           "id": 5,
-          "value": 0.199003682
+          "value": 0.635504961
         },
         {
           "id": 6,
@@ -6531,7 +6531,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.321001709
+          "value": 0.361501843
         },
         {
           "id": 1,
@@ -6671,7 +6671,7 @@
     {
       "id": 473,
       "plugin": "VultModulesFree",
-      "version": "1.15",
+      "version": "1.16",
       "model": "Unstabile",
       "params": [
         {
@@ -7039,7 +7039,7 @@
     {
       "id": 480,
       "plugin": "VultModulesFree",
-      "version": "1.15",
+      "version": "1.16",
       "model": "Basal",
       "params": [
         {
@@ -7110,7 +7110,7 @@
     {
       "id": 1077,
       "plugin": "MindMeldModular",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "model": "EqMaster",
       "params": [
         {
@@ -7123,7 +7123,7 @@
         },
         {
           "id": 2,
-          "value": 0.0
+          "value": 9.53997612
         },
         {
           "id": 3,
@@ -8027,7 +8027,7 @@
           false
         ],
         "trackGain": [
-          0.0,
+          9.53997612,
           0.0,
           0.0,
           0.0,
@@ -8507,14 +8507,6 @@
       "color": "#c9b70e"
     },
     {
-      "id": 1490,
-      "outputModuleId": 449,
-      "outputId": 0,
-      "inputModuleId": 450,
-      "inputId": 5,
-      "color": "#0986ad"
-    },
-    {
       "id": 2723,
       "outputModuleId": 467,
       "outputId": 1,
@@ -8536,14 +8528,6 @@
       "outputId": 0,
       "inputModuleId": 1076,
       "inputId": 0,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 3934,
-      "outputModuleId": 1076,
-      "outputId": 0,
-      "inputModuleId": 450,
-      "inputId": 7,
       "color": "#c9b70e"
     },
     {
@@ -8593,14 +8577,6 @@
       "inputModuleId": 481,
       "inputId": 0,
       "color": "#0c8e15"
-    },
-    {
-      "id": 3941,
-      "outputModuleId": 450,
-      "outputId": 0,
-      "inputModuleId": 481,
-      "inputId": 1,
-      "color": "#c91847"
     },
     {
       "id": 3942,
@@ -8673,6 +8649,30 @@
       "inputModuleId": 453,
       "inputId": 7,
       "color": "#c9b70e"
+    },
+    {
+      "id": 3934,
+      "outputModuleId": 1076,
+      "outputId": 0,
+      "inputModuleId": 450,
+      "inputId": 7,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3941,
+      "outputModuleId": 450,
+      "outputId": 0,
+      "inputModuleId": 481,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 5625,
+      "outputModuleId": 449,
+      "outputId": 0,
+      "inputModuleId": 450,
+      "inputId": 5,
+      "color": "#0986ad"
     }
   ]
 }

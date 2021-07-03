@@ -26,7 +26,7 @@
     {
       "id": 100,
       "plugin": "MindMeldModular",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "model": "MixMasterJr",
       "params": [
         {
@@ -495,7 +495,7 @@
     {
       "id": 101,
       "plugin": "MindMeldModular",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "model": "AuxExpanderJr",
       "params": [
         {
@@ -516,7 +516,7 @@
         },
         {
           "id": 4,
-          "value": 0.340500176
+          "value": 0.0179999992
         },
         {
           "id": 5,

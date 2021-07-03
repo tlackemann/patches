@@ -7,7 +7,7 @@
       "version": "1.1.6",
       "model": "AudioInterface",
       "params": [],
-      "leftModuleId": 101,
+      "leftModuleId": 1690,
       "data": {
         "audio": {
           "driver": 4,
@@ -19,826 +19,7 @@
         }
       },
       "pos": [
-        105,
-        0
-      ]
-    },
-    {
-      "id": 100,
-      "plugin": "MindMeldModular",
-      "version": "1.1.14",
-      "model": "MixMasterJr",
-      "params": [
-        {
-          "id": 0,
-          "value": 1.0
-        },
-        {
-          "id": 1,
-          "value": 1.0
-        },
-        {
-          "id": 2,
-          "value": 0.803451896
-        },
-        {
-          "id": 3,
-          "value": 1.0
-        },
-        {
-          "id": 4,
-          "value": 0.994078994
-        },
-        {
-          "id": 5,
-          "value": 1.0
-        },
-        {
-          "id": 6,
-          "value": 1.0
-        },
-        {
-          "id": 7,
-          "value": 1.0
-        },
-        {
-          "id": 8,
-          "value": 1.0
-        },
-        {
-          "id": 9,
-          "value": 1.0
-        },
-        {
-          "id": 10,
-          "value": 0.5
-        },
-        {
-          "id": 11,
-          "value": 0.5
-        },
-        {
-          "id": 12,
-          "value": 0.5
-        },
-        {
-          "id": 13,
-          "value": 0.5
-        },
-        {
-          "id": 14,
-          "value": 0.5
-        },
-        {
-          "id": 15,
-          "value": 0.5
-        },
-        {
-          "id": 16,
-          "value": 0.5
-        },
-        {
-          "id": 17,
-          "value": 0.5
-        },
-        {
-          "id": 18,
-          "value": 0.5
-        },
-        {
-          "id": 19,
-          "value": 0.5
-        },
-        {
-          "id": 20,
-          "value": 0.0
-        },
-        {
-          "id": 21,
-          "value": 0.0
-        },
-        {
-          "id": 22,
-          "value": 0.0
-        },
-        {
-          "id": 23,
-          "value": 1.0
-        },
-        {
-          "id": 24,
-          "value": 0.0
-        },
-        {
-          "id": 25,
-          "value": 0.0
-        },
-        {
-          "id": 26,
-          "value": 1.0
-        },
-        {
-          "id": 27,
-          "value": 0.0
-        },
-        {
-          "id": 28,
-          "value": 0.0
-        },
-        {
-          "id": 29,
-          "value": 0.0
-        },
-        {
-          "id": 30,
-          "value": 0.0
-        },
-        {
-          "id": 31,
-          "value": 0.0
-        },
-        {
-          "id": 32,
-          "value": 0.0
-        },
-        {
-          "id": 33,
-          "value": 0.0
-        },
-        {
-          "id": 34,
-          "value": 0.0
-        },
-        {
-          "id": 35,
-          "value": 0.0
-        },
-        {
-          "id": 36,
-          "value": 0.0
-        },
-        {
-          "id": 37,
-          "value": 0.0
-        },
-        {
-          "id": 38,
-          "value": 0.0
-        },
-        {
-          "id": 39,
-          "value": 0.0
-        },
-        {
-          "id": 40,
-          "value": 0.0
-        },
-        {
-          "id": 41,
-          "value": 0.0
-        },
-        {
-          "id": 42,
-          "value": 0.0
-        },
-        {
-          "id": 43,
-          "value": 1.0
-        },
-        {
-          "id": 44,
-          "value": 0.0
-        },
-        {
-          "id": 45,
-          "value": 0.0
-        },
-        {
-          "id": 46,
-          "value": 0.0
-        },
-        {
-          "id": 47,
-          "value": 0.0
-        },
-        {
-          "id": 48,
-          "value": 0.0
-        },
-        {
-          "id": 49,
-          "value": 0.0
-        },
-        {
-          "id": 50,
-          "value": 0.0
-        },
-        {
-          "id": 51,
-          "value": 0.0
-        },
-        {
-          "id": 52,
-          "value": 13.0
-        },
-        {
-          "id": 53,
-          "value": 13.0
-        },
-        {
-          "id": 54,
-          "value": 13.0
-        },
-        {
-          "id": 55,
-          "value": 13.0
-        },
-        {
-          "id": 56,
-          "value": 13.0
-        },
-        {
-          "id": 57,
-          "value": 13.0
-        },
-        {
-          "id": 58,
-          "value": 13.0
-        },
-        {
-          "id": 59,
-          "value": 13.0
-        },
-        {
-          "id": 60,
-          "value": 20010.0
-        },
-        {
-          "id": 61,
-          "value": 20010.0
-        },
-        {
-          "id": 62,
-          "value": 20010.0
-        },
-        {
-          "id": 63,
-          "value": 20010.0
-        },
-        {
-          "id": 64,
-          "value": 20010.0
-        },
-        {
-          "id": 65,
-          "value": 20010.0
-        },
-        {
-          "id": 66,
-          "value": 20010.0
-        },
-        {
-          "id": 67,
-          "value": 20010.0
-        },
-        {
-          "id": 68,
-          "value": 13.0
-        },
-        {
-          "id": 69,
-          "value": 13.0
-        },
-        {
-          "id": 70,
-          "value": 20010.0
-        },
-        {
-          "id": 71,
-          "value": 20010.0
-        }
-      ],
-      "leftModuleId": 991,
-      "rightModuleId": 101,
-      "data": {
-        "trackLabels": "-01--02--03--04--05--06--07--08-GRP1GRP2",
-        "panLawMono": 1,
-        "panLawStereo": 1,
-        "directOutsMode": 3,
-        "directOutsSkipGroupedTracks": 0,
-        "auxSendsMode": 3,
-        "groupsControlTrackSendLevels": 0,
-        "auxReturnsMutedWhenMainSolo": 0,
-        "auxReturnsSolosMuteDry": 0,
-        "chainMode": 0,
-        "colorAndCloak": 117440512,
-        "symmetricalFade": false,
-        "fadeCvOutsWithVolCv": false,
-        "linkBitMask": 0,
-        "filterPos": 1,
-        "groupedAuxReturnFeedbackProtection": 1,
-        "ecoMode": 65535,
-        "faders": [
-          1.0,
-          1.0,
-          0.803451896,
-          1.0,
-          0.994078994,
-          1.0,
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
-        "momentaryCvButtons": 1,
-        "masterFaderScalesSends": 0,
-        "linearVolCvInputs": 0,
-        "id_t0_gainAdjust": 1.0,
-        "id_t0_fadeRate": 0.0,
-        "id_t0_fadeProfile": 0.0,
-        "id_t0_directOutsMode": 3,
-        "id_t0_auxSendsMode": 3,
-        "id_t0_panLawStereo": 1,
-        "id_t0_vuColorThemeLocal": 0,
-        "id_t0_filterPos": 1,
-        "id_t0_dispColorLocal": 0,
-        "id_t0_polyStereo": 0,
-        "id_t0_panCvLevel": 1.0,
-        "id_t0_stereoWidth": 1.0,
-        "id_t0_invertInput": 0,
-        "id_t1_gainAdjust": 1.0,
-        "id_t1_fadeRate": 0.0,
-        "id_t1_fadeProfile": 0.0,
-        "id_t1_directOutsMode": 3,
-        "id_t1_auxSendsMode": 3,
-        "id_t1_panLawStereo": 1,
-        "id_t1_vuColorThemeLocal": 0,
-        "id_t1_filterPos": 1,
-        "id_t1_dispColorLocal": 0,
-        "id_t1_polyStereo": 0,
-        "id_t1_panCvLevel": 1.0,
-        "id_t1_stereoWidth": 1.0,
-        "id_t1_invertInput": 0,
-        "id_t2_gainAdjust": 1.0,
-        "id_t2_fadeRate": 0.0,
-        "id_t2_fadeProfile": 0.0,
-        "id_t2_directOutsMode": 3,
-        "id_t2_auxSendsMode": 3,
-        "id_t2_panLawStereo": 1,
-        "id_t2_vuColorThemeLocal": 0,
-        "id_t2_filterPos": 1,
-        "id_t2_dispColorLocal": 0,
-        "id_t2_polyStereo": 0,
-        "id_t2_panCvLevel": 1.0,
-        "id_t2_stereoWidth": 1.0,
-        "id_t2_invertInput": 0,
-        "id_t3_gainAdjust": 1.0,
-        "id_t3_fadeRate": 0.0,
-        "id_t3_fadeProfile": 0.0,
-        "id_t3_directOutsMode": 3,
-        "id_t3_auxSendsMode": 3,
-        "id_t3_panLawStereo": 1,
-        "id_t3_vuColorThemeLocal": 0,
-        "id_t3_filterPos": 1,
-        "id_t3_dispColorLocal": 0,
-        "id_t3_polyStereo": 0,
-        "id_t3_panCvLevel": 1.0,
-        "id_t3_stereoWidth": 1.0,
-        "id_t3_invertInput": 0,
-        "id_t4_gainAdjust": 1.0,
-        "id_t4_fadeRate": 0.0,
-        "id_t4_fadeProfile": 0.0,
-        "id_t4_directOutsMode": 3,
-        "id_t4_auxSendsMode": 3,
-        "id_t4_panLawStereo": 1,
-        "id_t4_vuColorThemeLocal": 0,
-        "id_t4_filterPos": 1,
-        "id_t4_dispColorLocal": 0,
-        "id_t4_polyStereo": 0,
-        "id_t4_panCvLevel": 1.0,
-        "id_t4_stereoWidth": 1.0,
-        "id_t4_invertInput": 0,
-        "id_t5_gainAdjust": 1.0,
-        "id_t5_fadeRate": 0.0,
-        "id_t5_fadeProfile": 0.0,
-        "id_t5_directOutsMode": 3,
-        "id_t5_auxSendsMode": 3,
-        "id_t5_panLawStereo": 1,
-        "id_t5_vuColorThemeLocal": 0,
-        "id_t5_filterPos": 1,
-        "id_t5_dispColorLocal": 0,
-        "id_t5_polyStereo": 0,
-        "id_t5_panCvLevel": 1.0,
-        "id_t5_stereoWidth": 1.0,
-        "id_t5_invertInput": 0,
-        "id_t6_gainAdjust": 1.0,
-        "id_t6_fadeRate": 0.0,
-        "id_t6_fadeProfile": 0.0,
-        "id_t6_directOutsMode": 3,
-        "id_t6_auxSendsMode": 3,
-        "id_t6_panLawStereo": 1,
-        "id_t6_vuColorThemeLocal": 0,
-        "id_t6_filterPos": 1,
-        "id_t6_dispColorLocal": 0,
-        "id_t6_polyStereo": 0,
-        "id_t6_panCvLevel": 1.0,
-        "id_t6_stereoWidth": 1.0,
-        "id_t6_invertInput": 0,
-        "id_t7_gainAdjust": 1.0,
-        "id_t7_fadeRate": 0.0,
-        "id_t7_fadeProfile": 0.0,
-        "id_t7_directOutsMode": 3,
-        "id_t7_auxSendsMode": 3,
-        "id_t7_panLawStereo": 1,
-        "id_t7_vuColorThemeLocal": 0,
-        "id_t7_filterPos": 1,
-        "id_t7_dispColorLocal": 0,
-        "id_t7_polyStereo": 0,
-        "id_t7_panCvLevel": 1.0,
-        "id_t7_stereoWidth": 1.0,
-        "id_t7_invertInput": 0,
-        "id_g0_fadeRate": 0.0,
-        "id_g0_fadeProfile": 0.0,
-        "id_g0_directOutsMode": 3,
-        "id_g0_auxSendsMode": 3,
-        "id_g0_panLawStereo": 1,
-        "id_g0_vuColorThemeLocal": 0,
-        "id_g0_filterPos": 1,
-        "id_g0_dispColorLocal": 0,
-        "id_g0_panCvLevel": 1.0,
-        "id_g0_stereoWidth": 1.0,
-        "id_g1_fadeRate": 0.0,
-        "id_g1_fadeProfile": 0.0,
-        "id_g1_directOutsMode": 3,
-        "id_g1_auxSendsMode": 3,
-        "id_g1_panLawStereo": 1,
-        "id_g1_vuColorThemeLocal": 0,
-        "id_g1_filterPos": 1,
-        "id_g1_dispColorLocal": 0,
-        "id_g1_panCvLevel": 1.0,
-        "id_g1_stereoWidth": 1.0,
-        "dcBlock": false,
-        "clipping": 0,
-        "fadeRate": 0.0,
-        "fadeProfile": 0.0,
-        "vuColorThemeLocal": 0,
-        "dispColorLocal": 0,
-        "chainOnly": 0,
-        "dimGain": 0.251190007,
-        "masterLabel": "MASTER"
-      },
-      "pos": [
-        39,
-        0
-      ]
-    },
-    {
-      "id": 101,
-      "plugin": "MindMeldModular",
-      "version": "1.1.14",
-      "model": "AuxExpanderJr",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0
-        },
-        {
-          "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        },
-        {
-          "id": 3,
-          "value": 0.0
-        },
-        {
-          "id": 4,
-          "value": 0.0
-        },
-        {
-          "id": 5,
-          "value": 0.0
-        },
-        {
-          "id": 6,
-          "value": 0.0
-        },
-        {
-          "id": 7,
-          "value": 0.0
-        },
-        {
-          "id": 8,
-          "value": 0.0
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        },
-        {
-          "id": 10,
-          "value": 0.0
-        },
-        {
-          "id": 11,
-          "value": 0.0
-        },
-        {
-          "id": 12,
-          "value": 0.0
-        },
-        {
-          "id": 13,
-          "value": 0.0
-        },
-        {
-          "id": 14,
-          "value": 0.0
-        },
-        {
-          "id": 15,
-          "value": 0.0
-        },
-        {
-          "id": 16,
-          "value": 0.0
-        },
-        {
-          "id": 17,
-          "value": 0.0
-        },
-        {
-          "id": 18,
-          "value": 0.0
-        },
-        {
-          "id": 19,
-          "value": 0.0
-        },
-        {
-          "id": 20,
-          "value": 0.0
-        },
-        {
-          "id": 21,
-          "value": 0.0
-        },
-        {
-          "id": 22,
-          "value": 0.0
-        },
-        {
-          "id": 23,
-          "value": 0.0
-        },
-        {
-          "id": 24,
-          "value": 0.0
-        },
-        {
-          "id": 25,
-          "value": 0.0
-        },
-        {
-          "id": 26,
-          "value": 0.0
-        },
-        {
-          "id": 27,
-          "value": 0.0
-        },
-        {
-          "id": 28,
-          "value": 0.0
-        },
-        {
-          "id": 29,
-          "value": 0.0
-        },
-        {
-          "id": 30,
-          "value": 0.0
-        },
-        {
-          "id": 31,
-          "value": 0.0
-        },
-        {
-          "id": 32,
-          "value": 0.0
-        },
-        {
-          "id": 33,
-          "value": 0.0
-        },
-        {
-          "id": 34,
-          "value": 0.0
-        },
-        {
-          "id": 35,
-          "value": 0.0
-        },
-        {
-          "id": 36,
-          "value": 0.0
-        },
-        {
-          "id": 37,
-          "value": 0.0
-        },
-        {
-          "id": 38,
-          "value": 0.0
-        },
-        {
-          "id": 39,
-          "value": 0.0
-        },
-        {
-          "id": 40,
-          "value": 0.0
-        },
-        {
-          "id": 41,
-          "value": 0.0
-        },
-        {
-          "id": 42,
-          "value": 0.0
-        },
-        {
-          "id": 43,
-          "value": 0.0
-        },
-        {
-          "id": 44,
-          "value": 0.0
-        },
-        {
-          "id": 45,
-          "value": 0.0
-        },
-        {
-          "id": 46,
-          "value": 0.0
-        },
-        {
-          "id": 47,
-          "value": 0.0
-        },
-        {
-          "id": 48,
-          "value": 0.0
-        },
-        {
-          "id": 49,
-          "value": 0.0
-        },
-        {
-          "id": 50,
-          "value": 0.0
-        },
-        {
-          "id": 51,
-          "value": 0.0
-        },
-        {
-          "id": 52,
-          "value": 0.0
-        },
-        {
-          "id": 53,
-          "value": 0.0
-        },
-        {
-          "id": 54,
-          "value": 0.0
-        },
-        {
-          "id": 55,
-          "value": 0.0
-        },
-        {
-          "id": 56,
-          "value": 0.0
-        },
-        {
-          "id": 57,
-          "value": 0.0
-        },
-        {
-          "id": 58,
-          "value": 0.0
-        },
-        {
-          "id": 59,
-          "value": 0.0
-        },
-        {
-          "id": 60,
-          "value": 0.0
-        },
-        {
-          "id": 61,
-          "value": 0.0
-        },
-        {
-          "id": 62,
-          "value": 1.0
-        },
-        {
-          "id": 63,
-          "value": 1.0
-        },
-        {
-          "id": 64,
-          "value": 1.0
-        },
-        {
-          "id": 65,
-          "value": 1.0
-        },
-        {
-          "id": 66,
-          "value": 0.5
-        },
-        {
-          "id": 67,
-          "value": 0.5
-        },
-        {
-          "id": 68,
-          "value": 0.5
-        },
-        {
-          "id": 69,
-          "value": 0.5
-        },
-        {
-          "id": 70,
-          "value": 1.0
-        },
-        {
-          "id": 71,
-          "value": 1.0
-        },
-        {
-          "id": 72,
-          "value": 1.0
-        },
-        {
-          "id": 73,
-          "value": 1.0
-        }
-      ],
-      "leftModuleId": 100,
-      "rightModuleId": 1,
-      "data": {
-        "directOutsModeLocal": 50529027,
-        "panLawStereoLocal": 16843009,
-        "vuColorThemeLocal": 0,
-        "dispColorAuxLocal": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "auxFadeRatesAndProfiles": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0
-        ],
-        "auxLabels": "AUXAAUXBAUXCAUXD",
-        "id_x0_hpfCutoffFreq": 13.0,
-        "id_x0_lpfCutoffFreq": 20010.0,
-        "id_x0_stereoWidth": 1.0,
-        "id_x1_hpfCutoffFreq": 13.0,
-        "id_x1_lpfCutoffFreq": 20010.0,
-        "id_x1_stereoWidth": 1.0,
-        "id_x2_hpfCutoffFreq": 13.0,
-        "id_x2_lpfCutoffFreq": 20010.0,
-        "id_x2_stereoWidth": 1.0,
-        "id_x3_hpfCutoffFreq": 13.0,
-        "id_x3_lpfCutoffFreq": 20010.0,
-        "id_x3_stereoWidth": 1.0,
-        "panCvLevels": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      "pos": [
-        75,
+        136,
         0
       ]
     },
@@ -858,7 +39,7 @@
         },
         {
           "id": 2,
-          "value": 15.54006
+          "value": 0.0
         },
         {
           "id": 3,
@@ -878,19 +59,19 @@
         },
         {
           "id": 7,
-          "value": 2.00209475
+          "value": 1.47577524
         },
         {
           "id": 8,
-          "value": 2.03246331
+          "value": 2.5440681
         },
         {
           "id": 9,
-          "value": 3.28409052
+          "value": 3.17609119
         },
         {
           "id": 10,
-          "value": 3.841434
+          "value": 3.69897008
         },
         {
           "id": 11,
@@ -898,15 +79,15 @@
         },
         {
           "id": 12,
-          "value": -10.7400131
+          "value": 0.0
         },
         {
           "id": 13,
-          "value": 14.1000137
+          "value": 0.0
         },
         {
           "id": 14,
-          "value": -20.0
+          "value": 0.0
         },
         {
           "id": 15,
@@ -914,15 +95,15 @@
         },
         {
           "id": 16,
-          "value": 9.51960373
+          "value": 3.0
         },
         {
           "id": 17,
-          "value": 4.93934679
+          "value": 3.0
         },
         {
           "id": 18,
-          "value": 20.0
+          "value": 1.0
         },
         {
           "id": 19,
@@ -938,7 +119,7 @@
         }
       ],
       "leftModuleId": 1312,
-      "rightModuleId": 100,
+      "rightModuleId": 1689,
       "data": {
         "mappedId": 0,
         "trackLabels": "-01--02--03--04--05--06--07--08--09--10--11--12--13--14--15--16-GRP1GRP2GRP3GRP4AUX1AUX2AUX3AUX4",
@@ -1126,22 +307,22 @@
           2.5440681,
           3.17609119,
           3.69897008,
-          1.84902179,
+          2.0,
           2.5440681,
           3.17609119,
           3.69897008,
           2.0,
           2.5440681,
           3.17609119,
-          3.49991465,
+          3.69897008,
           2.0,
           2.5440681,
           3.17609119,
           3.69897008,
-          2.00209475,
-          2.03246331,
-          3.28409052,
-          3.841434,
+          1.47577524,
+          2.5440681,
+          3.17609119,
+          3.69897008,
           2.0,
           2.5440681,
           3.17609119,
@@ -1220,27 +401,27 @@
           3.69897008
         ],
         "gain": [
-          5.46000004,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
           0.0,
           0.0,
           -20.0,
-          -20.0,
-          0.0,
-          0.0,
-          5.76000214,
-          -20.0,
-          0.0,
-          0.0,
-          2.16000772,
           0.0,
           0.0,
           0.0,
           0.0,
-          -20.0,
-          -10.7400131,
-          14.1000137,
-          -20.0,
-          -20.0,
           0.0,
           0.0,
           0.0,
@@ -1329,15 +510,15 @@
           1.0,
           3.0,
           3.0,
-          13.4497042,
+          1.0,
           1.0,
           3.0,
           3.0,
           1.0,
           1.0,
-          9.51960373,
-          4.93934679,
-          20.0,
+          3.0,
+          3.0,
+          1.0,
           1.0,
           3.0,
           3.0,
@@ -1766,8 +947,8 @@
           0.0,
           0.0,
           0.0,
-          15.54006,
-          -7.01999855,
+          0.0,
+          0.0,
           0.0,
           0.0,
           0.0,
@@ -1789,7 +970,7 @@
         ]
       },
       "pos": [
-        11,
+        5,
         0
       ]
     },
@@ -1799,13 +980,12 @@
       "version": "1.9.0",
       "model": "Mb",
       "params": [],
-      "leftModuleId": 1314,
       "rightModuleId": 1312,
       "data": {
         "mode": 1
       },
       "pos": [
-        6,
+        0,
         0
       ]
     },
@@ -1848,116 +1028,19 @@
         "presetLoadReplace": false
       },
       "pos": [
-        8,
+        2,
         0
       ]
     },
     {
-      "id": 1314,
-      "plugin": "Stoermelder-P1",
-      "version": "1.9.0",
-      "model": "Stroke",
-      "params": [],
-      "rightModuleId": 1311,
-      "data": {
-        "panelTheme": 1,
-        "keys": [
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          }
-        ]
-      },
-      "pos": [
-        0,
-        0
-      ]
-    },
-    {
-      "id": 1549,
-      "plugin": "Grayscale",
-      "version": "1.0.2",
-      "model": "Permutation12",
+      "id": 1682,
+      "plugin": "ZZC",
+      "version": "1.1.3",
+      "model": "DivExp",
       "params": [
         {
           "id": 0,
-          "value": 0.0
+          "value": 4.0
         },
         {
           "id": 1,
@@ -1965,313 +1048,30 @@
         },
         {
           "id": 2,
-          "value": 1.0
-        },
-        {
-          "id": 3,
-          "value": 16.0
-        },
-        {
-          "id": 4,
-          "value": 1.44799793
+          "value": 0.0
         }
       ],
-      "leftModuleId": 1568,
-      "rightModuleId": 1555,
+      "leftModuleId": 1683,
+      "rightModuleId": 1691,
       "data": {
-        "bits": [
-          false,
-          true,
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false,
-          true,
-          true,
-          false,
-          false,
-          false,
-          true,
-          false
-        ]
+        "gateMode": true,
+        "transportSource": 0,
+        "sync": false
       },
       "pos": [
-        27,
+        10,
         1
       ]
     },
     {
-      "id": 1550,
-      "plugin": "Bogaudio",
-      "version": "1.1.37",
-      "model": "Bogaudio-FMOp",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0
-        },
-        {
-          "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 0.808921397
-        },
-        {
-          "id": 3,
-          "value": 0.625230014
-        },
-        {
-          "id": 4,
-          "value": 0.816998005
-        },
-        {
-          "id": 5,
-          "value": 0.749730527
-        },
-        {
-          "id": 6,
-          "value": 0.0
-        },
-        {
-          "id": 7,
-          "value": 0.207000032
-        },
-        {
-          "id": 8,
-          "value": 1.0
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        },
-        {
-          "id": 10,
-          "value": 1.0
-        },
-        {
-          "id": 11,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1560,
-      "rightModuleId": 1551,
-      "data": {
-        "linearLevel": false,
-        "antialias_feedback": true,
-        "antialias_depth": true
-      },
-      "pos": [
-        65,
-        1
-      ]
-    },
-    {
-      "id": 1551,
-      "plugin": "Bogaudio",
-      "version": "1.1.37",
-      "model": "Bogaudio-FMOp",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0
-        },
-        {
-          "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 0.589921176
-        },
-        {
-          "id": 3,
-          "value": 0.821730196
-        },
-        {
-          "id": 4,
-          "value": 0.985000014
-        },
-        {
-          "id": 5,
-          "value": 0.563730061
-        },
-        {
-          "id": 6,
-          "value": 0.0
-        },
-        {
-          "id": 7,
-          "value": 0.191999987
-        },
-        {
-          "id": 8,
-          "value": 1.0
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        },
-        {
-          "id": 10,
-          "value": 1.0
-        },
-        {
-          "id": 11,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1550,
-      "rightModuleId": 1587,
-      "data": {
-        "linearLevel": false,
-        "antialias_feedback": true,
-        "antialias_depth": true
-      },
-      "pos": [
-        75,
-        1
-      ]
-    },
-    {
-      "id": 1552,
-      "plugin": "Fundamental",
-      "version": "1.4.0",
-      "model": "VCA-1",
-      "params": [
-        {
-          "id": 0,
-          "value": 1.0
-        },
-        {
-          "id": 1,
-          "value": 1.0
-        }
-      ],
-      "leftModuleId": 1553,
-      "rightModuleId": 1559,
-      "pos": [
-        46,
-        1
-      ]
-    },
-    {
-      "id": 1553,
-      "plugin": "Fundamental",
-      "version": "1.4.0",
-      "model": "VCA-1",
-      "params": [
-        {
-          "id": 0,
-          "value": 1.0
-        },
-        {
-          "id": 1,
-          "value": 1.0
-        }
-      ],
-      "leftModuleId": 1554,
-      "rightModuleId": 1552,
-      "pos": [
-        43,
-        1
-      ]
-    },
-    {
-      "id": 1554,
-      "plugin": "NYSTHI",
-      "version": "1.0.17",
-      "model": "AttackDecay",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0960000083
-        },
-        {
-          "id": 1,
-          "value": 0.299500346
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        },
-        {
-          "id": 3,
-          "value": 1.0
-        },
-        {
-          "id": 4,
-          "value": 0.5
-        },
-        {
-          "id": 5,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1555,
-      "rightModuleId": 1553,
-      "data": {
-        "m_looped": false
-      },
-      "pos": [
-        41,
-        1
-      ]
-    },
-    {
-      "id": 1555,
-      "plugin": "NYSTHI",
-      "version": "1.0.17",
-      "model": "AttackDecay",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0389999934
-        },
-        {
-          "id": 1,
-          "value": 0.319000363
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        },
-        {
-          "id": 3,
-          "value": 1.0
-        },
-        {
-          "id": 4,
-          "value": 0.5
-        },
-        {
-          "id": 5,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1549,
-      "rightModuleId": 1554,
-      "data": {
-        "m_looped": false
-      },
-      "pos": [
-        39,
-        1
-      ]
-    },
-    {
-      "id": 1556,
+      "id": 1683,
       "plugin": "ZZC",
       "version": "1.1.3",
       "model": "Clock",
       "params": [
         {
           "id": 0,
-          "value": 114.0
+          "value": 118.0
         },
         {
           "id": 1,
@@ -2294,7 +1094,7 @@
           "value": 0.0
         }
       ],
-      "rightModuleId": 1558,
+      "rightModuleId": 1682,
       "data": {
         "running": 1,
         "reverse": 0,
@@ -2311,349 +1111,27 @@
         "externalClockPPQN": 1
       },
       "pos": [
-        11,
+        0,
         1
       ]
     },
     {
-      "id": 1558,
-      "plugin": "ZZC",
-      "version": "1.1.3",
-      "model": "DivExp",
-      "params": [
-        {
-          "id": 0,
-          "value": -4.0
-        },
-        {
-          "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1556,
-      "rightModuleId": 1568,
-      "data": {
-        "gateMode": true,
-        "transportSource": 0,
-        "sync": false
-      },
-      "pos": [
-        21,
-        1
-      ]
-    },
-    {
-      "id": 1559,
-      "plugin": "ML_modules",
-      "version": "1.1.3",
-      "model": "SH8",
-      "params": [],
-      "leftModuleId": 1552,
-      "rightModuleId": 1560,
-      "pos": [
-        49,
-        1
-      ]
-    },
-    {
-      "id": 1560,
-      "plugin": "repelzen",
-      "version": "1.1.0",
-      "model": "rewin",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0
-        },
-        {
-          "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        },
-        {
-          "id": 3,
-          "value": 0.0
-        },
-        {
-          "id": 4,
-          "value": 0.0
-        },
-        {
-          "id": 5,
-          "value": 0.0
-        },
-        {
-          "id": 6,
-          "value": 0.0
-        },
-        {
-          "id": 7,
-          "value": 0.0
-        },
-        {
-          "id": 8,
-          "value": 0.0
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        },
-        {
-          "id": 10,
-          "value": 0.0
-        },
-        {
-          "id": 11,
-          "value": 0.0
-        },
-        {
-          "id": 12,
-          "value": 0.0
-        },
-        {
-          "id": 13,
-          "value": 0.0
-        },
-        {
-          "id": 14,
-          "value": 0.0
-        },
-        {
-          "id": 15,
-          "value": 0.0
-        },
-        {
-          "id": 16,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1559,
-      "rightModuleId": 1550,
-      "data": {
-        "notes": [
-          false,
-          true,
-          false,
-          true,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false
-        ],
-        "mode": 0
-      },
-      "pos": [
-        57,
-        1
-      ]
-    },
-    {
-      "id": 1562,
+      "id": 1684,
       "plugin": "Instruo",
       "version": "1.1.0",
       "model": "ochd",
       "params": [
         {
           "id": 0,
-          "value": 0.513501704
+          "value": 0.333499402
         },
         {
           "id": 1,
           "value": 0.0
         }
       ],
-      "leftModuleId": 1563,
+      "leftModuleId": 1701,
+      "rightModuleId": 1697,
       "data": {
         "deviations": {
           "lfos": [
@@ -2733,160 +1211,12 @@
         }
       },
       "pos": [
-        105,
+        24,
         1
       ]
     },
     {
-      "id": 1563,
-      "plugin": "Valley",
-      "version": "1.1.7",
-      "model": "Plateau",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0
-        },
-        {
-          "id": 1,
-          "value": 1.0
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        },
-        {
-          "id": 3,
-          "value": 10.0
-        },
-        {
-          "id": 4,
-          "value": 10.0
-        },
-        {
-          "id": 5,
-          "value": 0.752500117
-        },
-        {
-          "id": 6,
-          "value": 10.0
-        },
-        {
-          "id": 7,
-          "value": 0.527902424
-        },
-        {
-          "id": 8,
-          "value": 10.0
-        },
-        {
-          "id": 9,
-          "value": 10.0
-        },
-        {
-          "id": 10,
-          "value": 0.0719999969
-        },
-        {
-          "id": 11,
-          "value": 0.237499848
-        },
-        {
-          "id": 12,
-          "value": 8.2560091
-        },
-        {
-          "id": 13,
-          "value": 0.0
-        },
-        {
-          "id": 14,
-          "value": 0.0
-        },
-        {
-          "id": 15,
-          "value": 0.0
-        },
-        {
-          "id": 16,
-          "value": 0.0
-        },
-        {
-          "id": 17,
-          "value": 0.0
-        },
-        {
-          "id": 18,
-          "value": 0.0
-        },
-        {
-          "id": 19,
-          "value": 0.0
-        },
-        {
-          "id": 20,
-          "value": 0.0
-        },
-        {
-          "id": 21,
-          "value": 0.0
-        },
-        {
-          "id": 22,
-          "value": 0.0
-        },
-        {
-          "id": 23,
-          "value": 0.0
-        },
-        {
-          "id": 24,
-          "value": 0.0
-        },
-        {
-          "id": 25,
-          "value": 0.0
-        },
-        {
-          "id": 26,
-          "value": 0.0
-        },
-        {
-          "id": 27,
-          "value": 0.0
-        },
-        {
-          "id": 28,
-          "value": 0.0
-        },
-        {
-          "id": 29,
-          "value": 0.0
-        },
-        {
-          "id": 30,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1587,
-      "rightModuleId": 1562,
-      "data": {
-        "frozen": false,
-        "freezeToggle": false,
-        "panelStyle": 0,
-        "tuned": 0,
-        "diffuseInput": 0,
-        "preDelayCVSens": 0,
-        "inputSensitivity": 0,
-        "outputSaturation": 0
-      },
-      "pos": [
-        93,
-        1
-      ]
-    },
-    {
-      "id": 1564,
+      "id": 1686,
       "plugin": "Prok-Modular",
       "version": "1.0.3",
       "model": "ProkBD",
@@ -2908,14 +1238,14 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 1567,
-      "rightModuleId": 1565,
+      "leftModuleId": 1693,
+      "rightModuleId": 1687,
       "data": {
         "output12bit": true,
         "useHardareCVLimit": false,
         "lowResDistort": true,
         "patchVersion": 4,
-        "quad": 4,
+        "quad": 0,
         "patches": [
           {
             "patchData": [
@@ -4040,23 +2370,23 @@
         ]
       },
       "pos": [
-        35,
+        24,
         2
       ]
     },
     {
-      "id": 1565,
+      "id": 1687,
       "plugin": "Prok-Modular",
       "version": "1.0.3",
       "model": "ProkSN",
       "params": [
         {
           "id": 0,
-          "value": 0.24449949
+          "value": 0.357000023
         },
         {
           "id": 1,
-          "value": 0.272999793
+          "value": 0.730500221
         },
         {
           "id": 2,
@@ -4067,8 +2397,8 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 1564,
-      "rightModuleId": 1566,
+      "leftModuleId": 1686,
+      "rightModuleId": 1688,
       "data": {
         "output12bit": true,
         "useHardareCVLimit": false,
@@ -5087,23 +3417,23 @@
         ]
       },
       "pos": [
-        39,
+        28,
         2
       ]
     },
     {
-      "id": 1566,
+      "id": 1688,
       "plugin": "Prok-Modular",
       "version": "1.0.3",
       "model": "ProkHH",
       "params": [
         {
           "id": 0,
-          "value": 0.27850014
+          "value": 0.312000126
         },
         {
           "id": 1,
-          "value": 1.0
+          "value": 0.29700008
         },
         {
           "id": 2,
@@ -5114,8 +3444,8 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 1565,
-      "rightModuleId": 1573,
+      "leftModuleId": 1687,
+      "rightModuleId": 1694,
       "data": {
         "output12bit": true,
         "useHardareCVLimit": false,
@@ -6086,12 +4416,1526 @@
         ]
       },
       "pos": [
-        43,
+        32,
         2
       ]
     },
     {
-      "id": 1567,
+      "id": 1689,
+      "plugin": "MindMeldModular",
+      "version": "1.1.14",
+      "model": "MixMaster",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        },
+        {
+          "id": 4,
+          "value": 1.0
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 1.0
+        },
+        {
+          "id": 7,
+          "value": 1.0
+        },
+        {
+          "id": 8,
+          "value": 1.0
+        },
+        {
+          "id": 9,
+          "value": 1.0
+        },
+        {
+          "id": 10,
+          "value": 1.0
+        },
+        {
+          "id": 11,
+          "value": 1.0
+        },
+        {
+          "id": 12,
+          "value": 1.0
+        },
+        {
+          "id": 13,
+          "value": 1.0
+        },
+        {
+          "id": 14,
+          "value": 1.0
+        },
+        {
+          "id": 15,
+          "value": 1.0
+        },
+        {
+          "id": 16,
+          "value": 1.0
+        },
+        {
+          "id": 17,
+          "value": 1.0
+        },
+        {
+          "id": 18,
+          "value": 1.0
+        },
+        {
+          "id": 19,
+          "value": 1.0
+        },
+        {
+          "id": 20,
+          "value": 0.5
+        },
+        {
+          "id": 21,
+          "value": 0.5
+        },
+        {
+          "id": 22,
+          "value": 0.5
+        },
+        {
+          "id": 23,
+          "value": 0.5
+        },
+        {
+          "id": 24,
+          "value": 0.5
+        },
+        {
+          "id": 25,
+          "value": 0.5
+        },
+        {
+          "id": 26,
+          "value": 0.5
+        },
+        {
+          "id": 27,
+          "value": 0.5
+        },
+        {
+          "id": 28,
+          "value": 0.5
+        },
+        {
+          "id": 29,
+          "value": 0.5
+        },
+        {
+          "id": 30,
+          "value": 0.5
+        },
+        {
+          "id": 31,
+          "value": 0.5
+        },
+        {
+          "id": 32,
+          "value": 0.5
+        },
+        {
+          "id": 33,
+          "value": 0.5
+        },
+        {
+          "id": 34,
+          "value": 0.5
+        },
+        {
+          "id": 35,
+          "value": 0.5
+        },
+        {
+          "id": 36,
+          "value": 0.5
+        },
+        {
+          "id": 37,
+          "value": 0.5
+        },
+        {
+          "id": 38,
+          "value": 0.5
+        },
+        {
+          "id": 39,
+          "value": 0.5
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        },
+        {
+          "id": 42,
+          "value": 0.0
+        },
+        {
+          "id": 43,
+          "value": 0.0
+        },
+        {
+          "id": 44,
+          "value": 0.0
+        },
+        {
+          "id": 45,
+          "value": 0.0
+        },
+        {
+          "id": 46,
+          "value": 0.0
+        },
+        {
+          "id": 47,
+          "value": 0.0
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 0.0
+        },
+        {
+          "id": 50,
+          "value": 0.0
+        },
+        {
+          "id": 51,
+          "value": 0.0
+        },
+        {
+          "id": 52,
+          "value": 0.0
+        },
+        {
+          "id": 53,
+          "value": 0.0
+        },
+        {
+          "id": 54,
+          "value": 0.0
+        },
+        {
+          "id": 55,
+          "value": 0.0
+        },
+        {
+          "id": 56,
+          "value": 0.0
+        },
+        {
+          "id": 57,
+          "value": 0.0
+        },
+        {
+          "id": 58,
+          "value": 0.0
+        },
+        {
+          "id": 59,
+          "value": 0.0
+        },
+        {
+          "id": 60,
+          "value": 0.0
+        },
+        {
+          "id": 61,
+          "value": 0.0
+        },
+        {
+          "id": 62,
+          "value": 0.0
+        },
+        {
+          "id": 63,
+          "value": 0.0
+        },
+        {
+          "id": 64,
+          "value": 0.0
+        },
+        {
+          "id": 65,
+          "value": 0.0
+        },
+        {
+          "id": 66,
+          "value": 0.0
+        },
+        {
+          "id": 67,
+          "value": 0.0
+        },
+        {
+          "id": 68,
+          "value": 0.0
+        },
+        {
+          "id": 69,
+          "value": 0.0
+        },
+        {
+          "id": 70,
+          "value": 0.0
+        },
+        {
+          "id": 71,
+          "value": 0.0
+        },
+        {
+          "id": 72,
+          "value": 0.0
+        },
+        {
+          "id": 73,
+          "value": 0.0
+        },
+        {
+          "id": 74,
+          "value": 0.0
+        },
+        {
+          "id": 75,
+          "value": 0.0
+        },
+        {
+          "id": 76,
+          "value": 0.0
+        },
+        {
+          "id": 77,
+          "value": 0.0
+        },
+        {
+          "id": 78,
+          "value": 0.0
+        },
+        {
+          "id": 79,
+          "value": 0.0
+        },
+        {
+          "id": 80,
+          "value": 0.0
+        },
+        {
+          "id": 81,
+          "value": 0.0
+        },
+        {
+          "id": 82,
+          "value": 0.0
+        },
+        {
+          "id": 83,
+          "value": 1.24858177
+        },
+        {
+          "id": 84,
+          "value": 0.0
+        },
+        {
+          "id": 85,
+          "value": 0.0
+        },
+        {
+          "id": 86,
+          "value": 0.0
+        },
+        {
+          "id": 87,
+          "value": 0.0
+        },
+        {
+          "id": 88,
+          "value": 0.0
+        },
+        {
+          "id": 89,
+          "value": 0.0
+        },
+        {
+          "id": 90,
+          "value": 0.0
+        },
+        {
+          "id": 91,
+          "value": 0.0
+        },
+        {
+          "id": 92,
+          "value": 0.0
+        },
+        {
+          "id": 93,
+          "value": 0.0
+        },
+        {
+          "id": 94,
+          "value": 0.0
+        },
+        {
+          "id": 95,
+          "value": 0.0
+        },
+        {
+          "id": 96,
+          "value": 0.0
+        },
+        {
+          "id": 97,
+          "value": 0.0
+        },
+        {
+          "id": 98,
+          "value": 0.0
+        },
+        {
+          "id": 99,
+          "value": 0.0
+        },
+        {
+          "id": 100,
+          "value": 13.0
+        },
+        {
+          "id": 101,
+          "value": 13.0
+        },
+        {
+          "id": 102,
+          "value": 13.0
+        },
+        {
+          "id": 103,
+          "value": 13.0
+        },
+        {
+          "id": 104,
+          "value": 13.0
+        },
+        {
+          "id": 105,
+          "value": 13.0
+        },
+        {
+          "id": 106,
+          "value": 13.0
+        },
+        {
+          "id": 107,
+          "value": 13.0
+        },
+        {
+          "id": 108,
+          "value": 13.0
+        },
+        {
+          "id": 109,
+          "value": 13.0
+        },
+        {
+          "id": 110,
+          "value": 13.0
+        },
+        {
+          "id": 111,
+          "value": 13.0
+        },
+        {
+          "id": 112,
+          "value": 13.0
+        },
+        {
+          "id": 113,
+          "value": 13.0
+        },
+        {
+          "id": 114,
+          "value": 13.0
+        },
+        {
+          "id": 115,
+          "value": 13.0
+        },
+        {
+          "id": 116,
+          "value": 20010.0
+        },
+        {
+          "id": 117,
+          "value": 20010.0
+        },
+        {
+          "id": 118,
+          "value": 20010.0
+        },
+        {
+          "id": 119,
+          "value": 20010.0
+        },
+        {
+          "id": 120,
+          "value": 20010.0
+        },
+        {
+          "id": 121,
+          "value": 20010.0
+        },
+        {
+          "id": 122,
+          "value": 20010.0
+        },
+        {
+          "id": 123,
+          "value": 20010.0
+        },
+        {
+          "id": 124,
+          "value": 20010.0
+        },
+        {
+          "id": 125,
+          "value": 20010.0
+        },
+        {
+          "id": 126,
+          "value": 20010.0
+        },
+        {
+          "id": 127,
+          "value": 20010.0
+        },
+        {
+          "id": 128,
+          "value": 20010.0
+        },
+        {
+          "id": 129,
+          "value": 20010.0
+        },
+        {
+          "id": 130,
+          "value": 20010.0
+        },
+        {
+          "id": 131,
+          "value": 20010.0
+        },
+        {
+          "id": 132,
+          "value": 13.0
+        },
+        {
+          "id": 133,
+          "value": 13.0
+        },
+        {
+          "id": 134,
+          "value": 13.0
+        },
+        {
+          "id": 135,
+          "value": 13.0
+        },
+        {
+          "id": 136,
+          "value": 20010.0
+        },
+        {
+          "id": 137,
+          "value": 20010.0
+        },
+        {
+          "id": 138,
+          "value": 20010.0
+        },
+        {
+          "id": 139,
+          "value": 20010.0
+        }
+      ],
+      "leftModuleId": 991,
+      "rightModuleId": 1690,
+      "data": {
+        "trackLabels": "-01--02--03--04--05--06--07--08--09--10--11--12--13--14--15--16-GRP1GRP2GRP3GRP4",
+        "panLawMono": 1,
+        "panLawStereo": 1,
+        "directOutsMode": 3,
+        "directOutsSkipGroupedTracks": 0,
+        "auxSendsMode": 3,
+        "groupsControlTrackSendLevels": 0,
+        "auxReturnsMutedWhenMainSolo": 0,
+        "auxReturnsSolosMuteDry": 0,
+        "chainMode": 0,
+        "colorAndCloak": 117440512,
+        "symmetricalFade": false,
+        "fadeCvOutsWithVolCv": false,
+        "linkBitMask": 0,
+        "filterPos": 1,
+        "groupedAuxReturnFeedbackProtection": 1,
+        "ecoMode": 65535,
+        "faders": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "momentaryCvButtons": 1,
+        "masterFaderScalesSends": 0,
+        "linearVolCvInputs": 0,
+        "id_t0_gainAdjust": 1.0,
+        "id_t0_fadeRate": 0.0,
+        "id_t0_fadeProfile": 0.0,
+        "id_t0_directOutsMode": 3,
+        "id_t0_auxSendsMode": 3,
+        "id_t0_panLawStereo": 1,
+        "id_t0_vuColorThemeLocal": 0,
+        "id_t0_filterPos": 1,
+        "id_t0_dispColorLocal": 0,
+        "id_t0_polyStereo": 0,
+        "id_t0_panCvLevel": 1.0,
+        "id_t0_stereoWidth": 1.0,
+        "id_t0_invertInput": 0,
+        "id_t1_gainAdjust": 1.0,
+        "id_t1_fadeRate": 0.0,
+        "id_t1_fadeProfile": 0.0,
+        "id_t1_directOutsMode": 3,
+        "id_t1_auxSendsMode": 3,
+        "id_t1_panLawStereo": 1,
+        "id_t1_vuColorThemeLocal": 0,
+        "id_t1_filterPos": 1,
+        "id_t1_dispColorLocal": 0,
+        "id_t1_polyStereo": 0,
+        "id_t1_panCvLevel": 1.0,
+        "id_t1_stereoWidth": 1.0,
+        "id_t1_invertInput": 0,
+        "id_t2_gainAdjust": 1.0,
+        "id_t2_fadeRate": 0.0,
+        "id_t2_fadeProfile": 0.0,
+        "id_t2_directOutsMode": 3,
+        "id_t2_auxSendsMode": 3,
+        "id_t2_panLawStereo": 1,
+        "id_t2_vuColorThemeLocal": 0,
+        "id_t2_filterPos": 1,
+        "id_t2_dispColorLocal": 0,
+        "id_t2_polyStereo": 0,
+        "id_t2_panCvLevel": 1.0,
+        "id_t2_stereoWidth": 1.0,
+        "id_t2_invertInput": 0,
+        "id_t3_gainAdjust": 1.0,
+        "id_t3_fadeRate": 0.0,
+        "id_t3_fadeProfile": 0.0,
+        "id_t3_directOutsMode": 3,
+        "id_t3_auxSendsMode": 3,
+        "id_t3_panLawStereo": 1,
+        "id_t3_vuColorThemeLocal": 0,
+        "id_t3_filterPos": 1,
+        "id_t3_dispColorLocal": 0,
+        "id_t3_polyStereo": 0,
+        "id_t3_panCvLevel": 1.0,
+        "id_t3_stereoWidth": 1.0,
+        "id_t3_invertInput": 0,
+        "id_t4_gainAdjust": 1.0,
+        "id_t4_fadeRate": 0.0,
+        "id_t4_fadeProfile": 0.0,
+        "id_t4_directOutsMode": 3,
+        "id_t4_auxSendsMode": 3,
+        "id_t4_panLawStereo": 1,
+        "id_t4_vuColorThemeLocal": 0,
+        "id_t4_filterPos": 1,
+        "id_t4_dispColorLocal": 0,
+        "id_t4_polyStereo": 0,
+        "id_t4_panCvLevel": 1.0,
+        "id_t4_stereoWidth": 1.0,
+        "id_t4_invertInput": 0,
+        "id_t5_gainAdjust": 1.0,
+        "id_t5_fadeRate": 0.0,
+        "id_t5_fadeProfile": 0.0,
+        "id_t5_directOutsMode": 3,
+        "id_t5_auxSendsMode": 3,
+        "id_t5_panLawStereo": 1,
+        "id_t5_vuColorThemeLocal": 0,
+        "id_t5_filterPos": 1,
+        "id_t5_dispColorLocal": 0,
+        "id_t5_polyStereo": 0,
+        "id_t5_panCvLevel": 1.0,
+        "id_t5_stereoWidth": 1.0,
+        "id_t5_invertInput": 0,
+        "id_t6_gainAdjust": 1.0,
+        "id_t6_fadeRate": 0.0,
+        "id_t6_fadeProfile": 0.0,
+        "id_t6_directOutsMode": 3,
+        "id_t6_auxSendsMode": 3,
+        "id_t6_panLawStereo": 1,
+        "id_t6_vuColorThemeLocal": 0,
+        "id_t6_filterPos": 1,
+        "id_t6_dispColorLocal": 0,
+        "id_t6_polyStereo": 0,
+        "id_t6_panCvLevel": 1.0,
+        "id_t6_stereoWidth": 1.0,
+        "id_t6_invertInput": 0,
+        "id_t7_gainAdjust": 1.0,
+        "id_t7_fadeRate": 0.0,
+        "id_t7_fadeProfile": 0.0,
+        "id_t7_directOutsMode": 3,
+        "id_t7_auxSendsMode": 3,
+        "id_t7_panLawStereo": 1,
+        "id_t7_vuColorThemeLocal": 0,
+        "id_t7_filterPos": 1,
+        "id_t7_dispColorLocal": 0,
+        "id_t7_polyStereo": 0,
+        "id_t7_panCvLevel": 1.0,
+        "id_t7_stereoWidth": 1.0,
+        "id_t7_invertInput": 0,
+        "id_t8_gainAdjust": 1.0,
+        "id_t8_fadeRate": 0.0,
+        "id_t8_fadeProfile": 0.0,
+        "id_t8_directOutsMode": 3,
+        "id_t8_auxSendsMode": 3,
+        "id_t8_panLawStereo": 1,
+        "id_t8_vuColorThemeLocal": 0,
+        "id_t8_filterPos": 1,
+        "id_t8_dispColorLocal": 0,
+        "id_t8_polyStereo": 0,
+        "id_t8_panCvLevel": 1.0,
+        "id_t8_stereoWidth": 1.0,
+        "id_t8_invertInput": 0,
+        "id_t9_gainAdjust": 1.0,
+        "id_t9_fadeRate": 0.0,
+        "id_t9_fadeProfile": 0.0,
+        "id_t9_directOutsMode": 3,
+        "id_t9_auxSendsMode": 3,
+        "id_t9_panLawStereo": 1,
+        "id_t9_vuColorThemeLocal": 0,
+        "id_t9_filterPos": 1,
+        "id_t9_dispColorLocal": 0,
+        "id_t9_polyStereo": 0,
+        "id_t9_panCvLevel": 1.0,
+        "id_t9_stereoWidth": 1.0,
+        "id_t9_invertInput": 0,
+        "id_t10_gainAdjust": 1.0,
+        "id_t10_fadeRate": 0.0,
+        "id_t10_fadeProfile": 0.0,
+        "id_t10_directOutsMode": 3,
+        "id_t10_auxSendsMode": 3,
+        "id_t10_panLawStereo": 1,
+        "id_t10_vuColorThemeLocal": 0,
+        "id_t10_filterPos": 1,
+        "id_t10_dispColorLocal": 0,
+        "id_t10_polyStereo": 0,
+        "id_t10_panCvLevel": 1.0,
+        "id_t10_stereoWidth": 1.0,
+        "id_t10_invertInput": 0,
+        "id_t11_gainAdjust": 1.0,
+        "id_t11_fadeRate": 0.0,
+        "id_t11_fadeProfile": 0.0,
+        "id_t11_directOutsMode": 3,
+        "id_t11_auxSendsMode": 3,
+        "id_t11_panLawStereo": 1,
+        "id_t11_vuColorThemeLocal": 0,
+        "id_t11_filterPos": 1,
+        "id_t11_dispColorLocal": 0,
+        "id_t11_polyStereo": 0,
+        "id_t11_panCvLevel": 1.0,
+        "id_t11_stereoWidth": 1.0,
+        "id_t11_invertInput": 0,
+        "id_t12_gainAdjust": 1.0,
+        "id_t12_fadeRate": 0.0,
+        "id_t12_fadeProfile": 0.0,
+        "id_t12_directOutsMode": 3,
+        "id_t12_auxSendsMode": 3,
+        "id_t12_panLawStereo": 1,
+        "id_t12_vuColorThemeLocal": 0,
+        "id_t12_filterPos": 1,
+        "id_t12_dispColorLocal": 0,
+        "id_t12_polyStereo": 0,
+        "id_t12_panCvLevel": 1.0,
+        "id_t12_stereoWidth": 1.0,
+        "id_t12_invertInput": 0,
+        "id_t13_gainAdjust": 1.0,
+        "id_t13_fadeRate": 0.0,
+        "id_t13_fadeProfile": 0.0,
+        "id_t13_directOutsMode": 3,
+        "id_t13_auxSendsMode": 3,
+        "id_t13_panLawStereo": 1,
+        "id_t13_vuColorThemeLocal": 0,
+        "id_t13_filterPos": 1,
+        "id_t13_dispColorLocal": 0,
+        "id_t13_polyStereo": 0,
+        "id_t13_panCvLevel": 1.0,
+        "id_t13_stereoWidth": 1.0,
+        "id_t13_invertInput": 0,
+        "id_t14_gainAdjust": 1.0,
+        "id_t14_fadeRate": 0.0,
+        "id_t14_fadeProfile": 0.0,
+        "id_t14_directOutsMode": 3,
+        "id_t14_auxSendsMode": 3,
+        "id_t14_panLawStereo": 1,
+        "id_t14_vuColorThemeLocal": 0,
+        "id_t14_filterPos": 1,
+        "id_t14_dispColorLocal": 0,
+        "id_t14_polyStereo": 0,
+        "id_t14_panCvLevel": 1.0,
+        "id_t14_stereoWidth": 1.0,
+        "id_t14_invertInput": 0,
+        "id_t15_gainAdjust": 1.0,
+        "id_t15_fadeRate": 0.0,
+        "id_t15_fadeProfile": 0.0,
+        "id_t15_directOutsMode": 3,
+        "id_t15_auxSendsMode": 3,
+        "id_t15_panLawStereo": 1,
+        "id_t15_vuColorThemeLocal": 0,
+        "id_t15_filterPos": 1,
+        "id_t15_dispColorLocal": 0,
+        "id_t15_polyStereo": 0,
+        "id_t15_panCvLevel": 1.0,
+        "id_t15_stereoWidth": 1.0,
+        "id_t15_invertInput": 0,
+        "id_g0_fadeRate": 0.0,
+        "id_g0_fadeProfile": 0.0,
+        "id_g0_directOutsMode": 3,
+        "id_g0_auxSendsMode": 3,
+        "id_g0_panLawStereo": 1,
+        "id_g0_vuColorThemeLocal": 0,
+        "id_g0_filterPos": 1,
+        "id_g0_dispColorLocal": 0,
+        "id_g0_panCvLevel": 1.0,
+        "id_g0_stereoWidth": 1.0,
+        "id_g1_fadeRate": 0.0,
+        "id_g1_fadeProfile": 0.0,
+        "id_g1_directOutsMode": 3,
+        "id_g1_auxSendsMode": 3,
+        "id_g1_panLawStereo": 1,
+        "id_g1_vuColorThemeLocal": 0,
+        "id_g1_filterPos": 1,
+        "id_g1_dispColorLocal": 0,
+        "id_g1_panCvLevel": 1.0,
+        "id_g1_stereoWidth": 1.0,
+        "id_g2_fadeRate": 0.0,
+        "id_g2_fadeProfile": 0.0,
+        "id_g2_directOutsMode": 3,
+        "id_g2_auxSendsMode": 3,
+        "id_g2_panLawStereo": 1,
+        "id_g2_vuColorThemeLocal": 0,
+        "id_g2_filterPos": 1,
+        "id_g2_dispColorLocal": 0,
+        "id_g2_panCvLevel": 1.0,
+        "id_g2_stereoWidth": 1.0,
+        "id_g3_fadeRate": 0.0,
+        "id_g3_fadeProfile": 0.0,
+        "id_g3_directOutsMode": 3,
+        "id_g3_auxSendsMode": 3,
+        "id_g3_panLawStereo": 1,
+        "id_g3_vuColorThemeLocal": 0,
+        "id_g3_filterPos": 1,
+        "id_g3_dispColorLocal": 0,
+        "id_g3_panCvLevel": 1.0,
+        "id_g3_stereoWidth": 1.0,
+        "dcBlock": false,
+        "clipping": 0,
+        "fadeRate": 0.0,
+        "fadeProfile": 0.0,
+        "vuColorThemeLocal": 0,
+        "dispColorLocal": 0,
+        "chainOnly": 0,
+        "dimGain": 0.251190007,
+        "masterLabel": "MASTER"
+      },
+      "pos": [
+        33,
+        0
+      ]
+    },
+    {
+      "id": 1690,
+      "plugin": "MindMeldModular",
+      "version": "1.1.14",
+      "model": "AuxExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 0.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        },
+        {
+          "id": 42,
+          "value": 0.0
+        },
+        {
+          "id": 43,
+          "value": 0.0
+        },
+        {
+          "id": 44,
+          "value": 0.0
+        },
+        {
+          "id": 45,
+          "value": 0.0
+        },
+        {
+          "id": 46,
+          "value": 0.0
+        },
+        {
+          "id": 47,
+          "value": 0.0
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 0.0
+        },
+        {
+          "id": 50,
+          "value": 0.0
+        },
+        {
+          "id": 51,
+          "value": 0.0
+        },
+        {
+          "id": 52,
+          "value": 0.0
+        },
+        {
+          "id": 53,
+          "value": 0.0
+        },
+        {
+          "id": 54,
+          "value": 0.0
+        },
+        {
+          "id": 55,
+          "value": 0.0
+        },
+        {
+          "id": 56,
+          "value": 0.0
+        },
+        {
+          "id": 57,
+          "value": 0.0
+        },
+        {
+          "id": 58,
+          "value": 0.0
+        },
+        {
+          "id": 59,
+          "value": 0.0
+        },
+        {
+          "id": 60,
+          "value": 0.0
+        },
+        {
+          "id": 61,
+          "value": 0.0
+        },
+        {
+          "id": 62,
+          "value": 0.0
+        },
+        {
+          "id": 63,
+          "value": 0.0
+        },
+        {
+          "id": 64,
+          "value": 0.0
+        },
+        {
+          "id": 65,
+          "value": 0.0
+        },
+        {
+          "id": 66,
+          "value": 0.0
+        },
+        {
+          "id": 67,
+          "value": 0.0
+        },
+        {
+          "id": 68,
+          "value": 0.0
+        },
+        {
+          "id": 69,
+          "value": 0.0
+        },
+        {
+          "id": 70,
+          "value": 0.0
+        },
+        {
+          "id": 71,
+          "value": 0.0
+        },
+        {
+          "id": 72,
+          "value": 0.0
+        },
+        {
+          "id": 73,
+          "value": 0.0
+        },
+        {
+          "id": 74,
+          "value": 0.0
+        },
+        {
+          "id": 75,
+          "value": 0.0
+        },
+        {
+          "id": 76,
+          "value": 0.0
+        },
+        {
+          "id": 77,
+          "value": 0.0
+        },
+        {
+          "id": 78,
+          "value": 0.0
+        },
+        {
+          "id": 79,
+          "value": 0.0
+        },
+        {
+          "id": 80,
+          "value": 0.0
+        },
+        {
+          "id": 81,
+          "value": 0.0
+        },
+        {
+          "id": 82,
+          "value": 0.0
+        },
+        {
+          "id": 83,
+          "value": 0.0
+        },
+        {
+          "id": 84,
+          "value": 0.0
+        },
+        {
+          "id": 85,
+          "value": 0.0
+        },
+        {
+          "id": 86,
+          "value": 0.0
+        },
+        {
+          "id": 87,
+          "value": 0.0
+        },
+        {
+          "id": 88,
+          "value": 0.0
+        },
+        {
+          "id": 89,
+          "value": 0.0
+        },
+        {
+          "id": 90,
+          "value": 0.0
+        },
+        {
+          "id": 91,
+          "value": 0.0
+        },
+        {
+          "id": 92,
+          "value": 0.0
+        },
+        {
+          "id": 93,
+          "value": 0.0
+        },
+        {
+          "id": 94,
+          "value": 0.0
+        },
+        {
+          "id": 95,
+          "value": 0.0
+        },
+        {
+          "id": 96,
+          "value": 0.0
+        },
+        {
+          "id": 97,
+          "value": 0.0
+        },
+        {
+          "id": 98,
+          "value": 0.0
+        },
+        {
+          "id": 99,
+          "value": 0.0
+        },
+        {
+          "id": 100,
+          "value": 0.0
+        },
+        {
+          "id": 101,
+          "value": 0.0
+        },
+        {
+          "id": 102,
+          "value": 0.0
+        },
+        {
+          "id": 103,
+          "value": 0.0
+        },
+        {
+          "id": 104,
+          "value": 0.0
+        },
+        {
+          "id": 105,
+          "value": 0.0
+        },
+        {
+          "id": 106,
+          "value": 0.0
+        },
+        {
+          "id": 107,
+          "value": 0.0
+        },
+        {
+          "id": 108,
+          "value": 0.0
+        },
+        {
+          "id": 109,
+          "value": 0.0
+        },
+        {
+          "id": 110,
+          "value": 0.0
+        },
+        {
+          "id": 111,
+          "value": 0.0
+        },
+        {
+          "id": 112,
+          "value": 1.0
+        },
+        {
+          "id": 113,
+          "value": 1.0
+        },
+        {
+          "id": 114,
+          "value": 1.0
+        },
+        {
+          "id": 115,
+          "value": 1.0
+        },
+        {
+          "id": 116,
+          "value": 0.5
+        },
+        {
+          "id": 117,
+          "value": 0.5
+        },
+        {
+          "id": 118,
+          "value": 0.5
+        },
+        {
+          "id": 119,
+          "value": 0.5
+        },
+        {
+          "id": 120,
+          "value": 1.0
+        },
+        {
+          "id": 121,
+          "value": 1.0
+        },
+        {
+          "id": 122,
+          "value": 1.0
+        },
+        {
+          "id": 123,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 1689,
+      "rightModuleId": 1,
+      "data": {
+        "directOutsModeLocal": 50529027,
+        "panLawStereoLocal": 16843009,
+        "vuColorThemeLocal": 0,
+        "dispColorAuxLocal": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "auxFadeRatesAndProfiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "auxLabels": "AUXAAUXBAUXCAUXD",
+        "id_x0_hpfCutoffFreq": 13.0,
+        "id_x0_lpfCutoffFreq": 20010.0,
+        "id_x0_stereoWidth": 1.0,
+        "id_x1_hpfCutoffFreq": 13.0,
+        "id_x1_lpfCutoffFreq": 20010.0,
+        "id_x1_stereoWidth": 1.0,
+        "id_x2_hpfCutoffFreq": 13.0,
+        "id_x2_lpfCutoffFreq": 20010.0,
+        "id_x2_stereoWidth": 1.0,
+        "id_x3_hpfCutoffFreq": 13.0,
+        "id_x3_lpfCutoffFreq": 20010.0,
+        "id_x3_stereoWidth": 1.0,
+        "panCvLevels": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pos": [
+        94,
+        0
+      ]
+    },
+    {
+      "id": 1691,
+      "plugin": "ZZC",
+      "version": "1.1.3",
+      "model": "DivExp",
+      "params": [
+        {
+          "id": 0,
+          "value": -4.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1682,
+      "rightModuleId": 1701,
+      "data": {
+        "gateMode": true,
+        "transportSource": 0,
+        "sync": false
+      },
+      "pos": [
+        13,
+        1
+      ]
+    },
+    {
+      "id": 1692,
+      "plugin": "AlrightDevices",
+      "version": "1.0.3",
+      "model": "Chronoblob2",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.5
+        },
+        {
+          "id": 1,
+          "value": 0.333501726
+        },
+        {
+          "id": 2,
+          "value": 0.5
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": -0.32400018
+        },
+        {
+          "id": 5,
+          "value": 0.393000335
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 1.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1703,
+      "data": {
+        "delay_mode": 0,
+        "hold_behavior": 0,
+        "sync_prescaler": 6
+      },
+      "pos": [
+        71,
+        1
+      ]
+    },
+    {
+      "id": 1693,
       "plugin": "ImpromptuModular",
       "version": "1.1.10",
       "model": "Gate-Seq-64",
@@ -6429,7 +6273,7 @@
           "value": 0.0
         }
       ],
-      "rightModuleId": 1564,
+      "rightModuleId": 1686,
       "data": {
         "panelTheme": 1,
         "autoseq": false,
@@ -6437,31 +6281,23 @@
         "pulsesPerStep": 1,
         "running": true,
         "runModeSong3": 0,
-        "stepIndexEdit": 15,
+        "stepIndexEdit": 62,
         "phraseIndexEdit": 0,
         "sequence": 0,
         "phrases": 4,
         "attributes2": [
           562,
-          814,
           50,
-          812,
           50,
-          826,
           50,
-          812,
           562,
           50,
-          802,
-          810,
           50,
-          808,
           50,
-          808,
+          562,
           50,
           50,
           50,
-          290,
           562,
           50,
           50,
@@ -6472,62 +6308,6 @@
           50,
           562,
           50,
-          284,
-          50,
-          562,
-          50,
-          562,
-          562,
-          562,
-          50,
-          562,
-          562,
-          562,
-          50,
-          562,
-          562,
-          562,
-          50,
-          562,
-          562,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          562,
-          302,
-          50,
-          300,
-          50,
-          314,
-          50,
-          300,
-          562,
-          50,
-          290,
-          298,
-          50,
-          296,
-          50,
-          296,
-          50,
-          50,
-          50,
-          290,
-          562,
-          50,
           50,
           50,
           50,
@@ -6536,24 +6316,88 @@
           50,
           562,
           50,
-          284,
+          50,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
           50,
           562,
           50,
           562,
-          562,
-          562,
+          50,
+          50,
           50,
           562,
-          562,
-          562,
+          50,
+          50,
           50,
           562,
-          562,
-          562,
+          50,
+          50,
           50,
           562,
-          562,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
           50,
           50,
           50,
@@ -8596,19 +8440,19 @@
         "lock": false
       },
       "pos": [
-        11,
+        0,
         2
       ]
     },
     {
-      "id": 1568,
-      "plugin": "ZZC",
-      "version": "1.1.3",
-      "model": "DivExp",
+      "id": 1694,
+      "plugin": "Prok-Modular",
+      "version": "1.0.3",
+      "model": "ProkHH",
       "params": [
         {
           "id": 0,
-          "value": 4.0
+          "value": 0.0
         },
         {
           "id": 1,
@@ -8617,33 +8461,1273 @@
         {
           "id": 2,
           "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
         }
       ],
-      "leftModuleId": 1558,
-      "rightModuleId": 1549,
+      "leftModuleId": 1688,
       "data": {
-        "gateMode": true,
-        "transportSource": 0,
-        "sync": false
+        "output12bit": true,
+        "useHardareCVLimit": false,
+        "lowResDistort": true,
+        "patchVersion": 8,
+        "quad": 0,
+        "patches": [
+          {
+            "patchData": [
+              0.0,
+              205.300003,
+              304.399994,
+              369.600006,
+              522.700012,
+              540.0,
+              800.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.629999995,
+              0.75,
+              2163.19995,
+              2.74000001,
+              8385.0,
+              3.0,
+              0.639999986,
+              0.649999976,
+              32.1599998,
+              0.0,
+              136.179993,
+              1225.0,
+              12.0,
+              405.950012,
+              1825.0,
+              12.0,
+              1585.0,
+              1912.5,
+              12.0,
+              0.0,
+              4440.6499,
+              9440.0,
+              12.0,
+              1971.0,
+              3.05999994,
+              2596.0,
+              3.17000008,
+              6032.0,
+              2.91000009,
+              0.610000014,
+              0.730000019,
+              0.879999995,
+              6516.7998,
+              0.319999993,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.629999995
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              205.300003,
+              304.399994,
+              369.600006,
+              522.700012,
+              540.0,
+              800.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.629999995,
+              0.75,
+              2163.19995,
+              4.0,
+              8385.0,
+              3.6099999,
+              0.660000026,
+              0.660000026,
+              14.3599997,
+              0.0,
+              584.130005,
+              10400.0,
+              12.0,
+              4930.18018,
+              13280.0,
+              12.0,
+              6624.97021,
+              21120.0,
+              12.0,
+              0.0,
+              4381.25,
+              29120.0,
+              12.0,
+              1971.0,
+              2.28999996,
+              2596.0,
+              4.11999989,
+              6032.0,
+              4.48999977,
+              0.680000007,
+              0.810000002,
+              0.939999998,
+              6516.7998,
+              4.1500001,
+              0.270000011,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.550000012
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              205.300003,
+              304.399994,
+              369.600006,
+              522.700012,
+              540.0,
+              800.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.200000003,
+              1.0,
+              5089.6001,
+              2.47000003,
+              6532.5,
+              4.5999999,
+              0.699999988,
+              0.75999999,
+              33.3699989,
+              0.0,
+              872.090027,
+              9280.0,
+              12.0,
+              6408.3999,
+              28000.0,
+              12.0,
+              7220.1001,
+              29920.0,
+              12.0,
+              0.0,
+              1037.67004,
+              24332.0605,
+              12.0,
+              1941.59998,
+              3.1099999,
+              3557.75,
+              3.1099999,
+              5934.33008,
+              2.80999994,
+              0.800000012,
+              0.870000005,
+              1.0,
+              8841.2002,
+              3.69000006,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.74000001
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              205.300003,
+              304.399994,
+              369.600006,
+              522.700012,
+              540.0,
+              800.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.200000003,
+              1.0,
+              5089.6001,
+              2.47000003,
+              6532.5,
+              4.5999999,
+              0.74000001,
+              0.779999971,
+              68.3199997,
+              0.0,
+              872.090027,
+              9280.0,
+              12.0,
+              388.149994,
+              17920.0,
+              12.0,
+              584.130005,
+              10400.0,
+              12.0,
+              0.0,
+              1037.67004,
+              9280.0,
+              12.0,
+              1941.59998,
+              3.1099999,
+              3557.75,
+              3.1099999,
+              5934.33008,
+              2.80999994,
+              0.550000012,
+              0.699999988,
+              0.870000005,
+              8841.2002,
+              3.51999998,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.810000002
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              179.860001,
+              263.829987,
+              465.25,
+              652.48999,
+              584.0,
+              534.5,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.330000013,
+              1.0,
+              5833.6001,
+              4.71999979,
+              7957.5,
+              3.98000002,
+              0.560000002,
+              0.180000007,
+              66.3399963,
+              0.0,
+              1960.94995,
+              6080.0,
+              12.0,
+              697.109985,
+              14560.0,
+              12.0,
+              461.73999,
+              14720.0,
+              12.0,
+              0.0,
+              3591.75,
+              2560.0,
+              12.0,
+              1044.90002,
+              2.03999996,
+              1708.0,
+              3.43000007,
+              7172.7998,
+              4.48999977,
+              0.810000002,
+              0.730000019,
+              0.610000014,
+              1570.0,
+              3.49000001,
+              0.699999988,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.569999993
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              205.300003,
+              304.399994,
+              369.600006,
+              522.700012,
+              540.0,
+              800.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.629999995,
+              0.75,
+              2163.19995,
+              4.0,
+              8385.0,
+              3.6099999,
+              0.660000026,
+              0.660000026,
+              14.3599997,
+              0.0,
+              584.130005,
+              10400.0,
+              12.0,
+              4930.18018,
+              13280.0,
+              12.0,
+              6624.97021,
+              21120.0,
+              12.0,
+              0.0,
+              4381.25,
+              29120.0,
+              12.0,
+              1971.0,
+              2.28999996,
+              2596.0,
+              4.11999989,
+              6032.0,
+              4.48999977,
+              0.680000007,
+              0.810000002,
+              0.939999998,
+              6516.7998,
+              4.1500001,
+              0.270000011,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.49000001
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              179.860001,
+              263.829987,
+              465.25,
+              652.48999,
+              584.0,
+              534.5,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.330000013,
+              1.0,
+              5089.6001,
+              3.77999997,
+              8432.5,
+              3.98000002,
+              0.980000019,
+              0.970000029,
+              63.8600006,
+              0.0,
+              1156.83997,
+              19200.0,
+              12.0,
+              3125.61011,
+              24640.0,
+              12.0,
+              4560.62988,
+              21920.0,
+              12.0,
+              0.0,
+              8000.0,
+              25440.0,
+              12.0,
+              1134.98999,
+              1.39999998,
+              3128.80005,
+              3.43000007,
+              7172.7998,
+              4.48999977,
+              0.180000007,
+              0.589999974,
+              0.280000001,
+              8424.0,
+              3.49000001,
+              0.349999994,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.600000024
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              179.860001,
+              263.829987,
+              465.25,
+              652.48999,
+              584.0,
+              534.5,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.330000013,
+              1.0,
+              5833.6001,
+              4.71999979,
+              7957.5,
+              3.98000002,
+              0.980000019,
+              0.959999979,
+              66.3399963,
+              0.0,
+              1960.94995,
+              6080.0,
+              12.0,
+              697.109985,
+              14560.0,
+              12.0,
+              461.73999,
+              14720.0,
+              12.0,
+              0.0,
+              3591.75,
+              2560.0,
+              12.0,
+              1044.90002,
+              2.03999996,
+              1708.0,
+              3.43000007,
+              7172.7998,
+              4.48999977,
+              0.810000002,
+              0.730000019,
+              0.610000014,
+              1570.0,
+              3.49000001,
+              0.699999988,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.569999993
+            ]
+          },
+          {
+            "patchData": [
+              60.9799995,
+              827.440002,
+              691.690002,
+              589.900024,
+              475.48999,
+              353.149994,
+              276.470001,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.519999981,
+              0.239999995,
+              1546.68994,
+              2.3900001,
+              5870.47021,
+              2.78999996,
+              0.980000019,
+              0.980000019,
+              48.5200005,
+              135.199997,
+              353.76001,
+              20151.25,
+              12.0,
+              370.75,
+              22982.5,
+              12.0,
+              320.959991,
+              23090.6309,
+              12.0,
+              80.0,
+              628.119995,
+              14565.2998,
+              12.0,
+              2223.31006,
+              3.1099999,
+              4163.8999,
+              3.1099999,
+              2262.3999,
+              2.80999994,
+              0.280000001,
+              0.400000006,
+              0.310000002,
+              2403.46997,
+              2.5999999,
+              0.289999992,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.709999979
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              179.860001,
+              263.829987,
+              504.640015,
+              652.48999,
+              775.5,
+              832.650024,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.330000013,
+              1.0,
+              5089.6001,
+              3.77999997,
+              8432.5,
+              3.98000002,
+              1.0,
+              1.0,
+              41.5900002,
+              0.0,
+              1156.83997,
+              19200.0,
+              12.0,
+              3125.61011,
+              24640.0,
+              12.0,
+              4560.62988,
+              21920.0,
+              12.0,
+              0.0,
+              3864.71997,
+              13120.0,
+              12.0,
+              589.200012,
+              1.39999998,
+              4194.3999,
+              3.43000007,
+              3353.6001,
+              4.57000017,
+              0.439999998,
+              0.649999976,
+              0.400000006,
+              7410.7998,
+              3.49000001,
+              0.340000004,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.730000019
+            ]
+          },
+          {
+            "patchData": [
+              645.0,
+              903.0,
+              936.0,
+              969.0,
+              1040.5,
+              1095.5,
+              1178.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.560000002,
+              0.680000007,
+              1072.0,
+              4.5999999,
+              8290.0,
+              1.66999996,
+              0.99000001,
+              0.360000014,
+              33.1699982,
+              0.0,
+              1096.06006,
+              28960.0,
+              12.0,
+              481.140015,
+              9120.0,
+              12.0,
+              4322.25977,
+              26080.0,
+              12.0,
+              0.0,
+              7144.31006,
+              31520.0,
+              12.0,
+              2544.30005,
+              0.980000019,
+              1708.0,
+              4.51999998,
+              6627.2002,
+              2.1500001,
+              0.620000005,
+              0.449999988,
+              0.610000014,
+              6516.7998,
+              3.51999998,
+              0.370000005,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.689999998
+            ]
+          },
+          {
+            "patchData": [
+              645.0,
+              903.0,
+              936.0,
+              969.0,
+              1040.5,
+              1095.5,
+              1178.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.560000002,
+              0.230000004,
+              1568.0,
+              4.5999999,
+              2210.0,
+              2.67000008,
+              0.980000019,
+              0.980000019,
+              43.0699997,
+              0.0,
+              500.940002,
+              0.0,
+              12.0,
+              388.149994,
+              0.0,
+              12.0,
+              2290.51001,
+              0.0,
+              12.0,
+              0.0,
+              2000.75,
+              1920.0,
+              12.0,
+              530.400024,
+              4.4000001,
+              1708.0,
+              4.65999985,
+              6180.7998,
+              2.1500001,
+              0.939999998,
+              0.769999981,
+              0.680000007,
+              8841.2002,
+              3.51999998,
+              0.409999996,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.829999983
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              210.0,
+              221.0,
+              226.5,
+              243.0,
+              276.0,
+              309.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.289999992,
+              1.0,
+              625.599976,
+              5.03000021,
+              5630.0,
+              5.42999983,
+              0.479999989,
+              0.349999994,
+              48.0200005,
+              672.799988,
+              116.190002,
+              6400.0,
+              12.0,
+              169.179993,
+              7520.0,
+              12.0,
+              289.76001,
+              7360.0,
+              12.0,
+              423.200012,
+              1096.06006,
+              27520.0,
+              12.0,
+              442.200012,
+              5.4000001,
+              1145.59998,
+              4.46000004,
+              2907.19995,
+              5.19999981,
+              0.109999999,
+              0.159999996,
+              0.879999995,
+              6636.0,
+              3.51999998,
+              0.730000019,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.75
+            ]
+          },
+          {
+            "patchData": [
+              0.0,
+              463.0,
+              479.5,
+              518.0,
+              545.5,
+              573.0,
+              600.5,
+              0.99000001,
+              0.920000017,
+              0.879999995,
+              0.850000024,
+              0.790000021,
+              0.75999999,
+              0.409999996,
+              0.150000006,
+              1816.0,
+              4.96999979,
+              1022.5,
+              0.670000017,
+              0.5,
+              0.379999995,
+              8.42000008,
+              720.0,
+              5184.5498,
+              5280.0,
+              12.0,
+              3591.75,
+              8160.0,
+              12.0,
+              2290.51001,
+              20640.0,
+              12.0,
+              1095.19995,
+              5848.47021,
+              12320.0,
+              12.0,
+              1044.90002,
+              4.69000006,
+              849.599976,
+              4.09000015,
+              2113.6001,
+              3.49000001,
+              0.629999995,
+              0.419999987,
+              0.200000003,
+              10033.2002,
+              2.00999999,
+              0.280000001,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.730000019
+            ]
+          },
+          {
+            "patchData": [
+              425.420013,
+              941.5,
+              996.5,
+              1035.0,
+              1051.5,
+              1079.0,
+              1156.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.519999981,
+              0.730000019,
+              1559.98999,
+              3.76999998,
+              1545.0,
+              2.72000003,
+              0.769999981,
+              0.769999981,
+              15.8500004,
+              0.0,
+              650.719971,
+              28480.0,
+              12.0,
+              7761.83008,
+              28000.0,
+              12.0,
+              8000.0,
+              31520.0,
+              12.0,
+              0.0,
+              7144.31006,
+              31200.0,
+              12.0,
+              1971.0,
+              2.06999993,
+              2631.36011,
+              4.55000019,
+              3552.0,
+              2.4000001,
+              0.709999979,
+              0.349999994,
+              0.409999996,
+              9318.0,
+              3.95000005,
+              0.280000001,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.560000002
+            ]
+          },
+          {
+            "patchData": [
+              425.420013,
+              941.5,
+              996.5,
+              1018.5,
+              1057.0,
+              1079.0,
+              1156.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              0.540000021,
+              0.230000004,
+              1559.98999,
+              3.76999998,
+              3586.25,
+              2.72000003,
+              0.980000019,
+              0.980000019,
+              37.25,
+              0.0,
+              605.919983,
+              10172.3301,
+              12.0,
+              745.109985,
+              11037.1299,
+              12.0,
+              584.130005,
+              11577.0,
+              12.0,
+              0.0,
+              1825.97998,
+              5875.58984,
+              12.0,
+              1166.89001,
+              2.75,
+              2631.36011,
+              2.18000007,
+              6656.18994,
+              2.4000001,
+              0.569999993,
+              0.479999989,
+              0.349999994,
+              6420.75977,
+              3.17000008,
+              0.319999993,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              8000.0,
+              0.709999979,
+              0.75999999
+            ]
+          }
+        ]
       },
       "pos": [
-        24,
+        36,
+        2
+      ]
+    },
+    {
+      "id": 1697,
+      "plugin": "Instruo",
+      "version": "1.1.0",
+      "model": "harmonaig",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 1.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": -10.512002
+        },
+        {
+          "id": 21,
+          "value": -10.512002
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 1.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 0.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 3.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 6.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        },
+        {
+          "id": 42,
+          "value": 1.0
+        },
+        {
+          "id": 43,
+          "value": 1.0
+        },
+        {
+          "id": 44,
+          "value": 1.0
+        },
+        {
+          "id": 45,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 1684,
+      "rightModuleId": 1698,
+      "data": {
+        "mode": 0
+      },
+      "pos": [
+        28,
         1
       ]
     },
     {
-      "id": 1570,
+      "id": 1698,
+      "plugin": "Instruo",
+      "version": "1.1.0",
+      "model": "saich",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.475499988
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 1.0
+        },
+        {
+          "id": 8,
+          "value": 0.5
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1697,
+      "rightModuleId": 1700,
+      "data": {
+        "mixprofile": 4,
+        "mixprofileMem": 0.0,
+        "intervalicOffset": 0.0,
+        "detuneMem": 1.0,
+        "ctrlMode": 0,
+        "cvRoute": 0,
+        "diatonicMode": false,
+        "subOctaveSetting": 0
+      },
+      "pos": [
+        46,
+        1
+      ]
+    },
+    {
+      "id": 1699,
       "plugin": "NYSTHI",
       "version": "1.0.17",
       "model": "AttackDecay",
       "params": [
         {
           "id": 0,
-          "value": 0.0479999892
+          "value": 0.130500197
         },
         {
           "id": 1,
-          "value": 0.317500412
+          "value": 0.198999465
         },
         {
           "id": 2,
@@ -8662,18 +9746,18 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 1575,
-      "rightModuleId": 1571,
+      "leftModuleId": 1700,
+      "rightModuleId": 1703,
       "data": {
         "m_looped": false
       },
       "pos": [
-        56,
-        2
+        61,
+        1
       ]
     },
     {
-      "id": 1571,
+      "id": 1700,
       "plugin": "Fundamental",
       "version": "1.4.0",
       "model": "VCA-1",
@@ -8687,94 +9771,43 @@
           "value": 1.0
         }
       ],
-      "leftModuleId": 1570,
-      "rightModuleId": 1592,
+      "leftModuleId": 1698,
+      "rightModuleId": 1699,
       "pos": [
         58,
-        2
+        1
       ]
     },
     {
-      "id": 1573,
-      "plugin": "Bogaudio",
-      "version": "1.1.37",
-      "model": "Bogaudio-Offset",
-      "params": [
-        {
-          "id": 0,
-          "value": -0.200000003
-        },
-        {
-          "id": 1,
-          "value": 0.316229999
-        }
-      ],
-      "leftModuleId": 1566,
-      "rightModuleId": 1575,
-      "data": {
-        "disableOutputLimit": false,
-        "offset_first": false
-      },
+      "id": 1701,
+      "plugin": "ML_modules",
+      "version": "1.1.3",
+      "model": "SH8",
+      "params": [],
+      "leftModuleId": 1691,
+      "rightModuleId": 1684,
       "pos": [
-        47,
-        2
+        16,
+        1
       ]
     },
     {
-      "id": 1575,
-      "plugin": "VultModulesFree",
-      "version": "1.16",
-      "model": "Basal",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0
-        },
-        {
-          "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 0.140999854
-        },
-        {
-          "id": 3,
-          "value": 0.0
-        },
-        {
-          "id": 4,
-          "value": 0.0
-        },
-        {
-          "id": 5,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1573,
-      "rightModuleId": 1570,
-      "pos": [
-        50,
-        2
-      ]
-    },
-    {
-      "id": 1587,
+      "id": 1703,
       "plugin": "Valley",
       "version": "1.1.7",
       "model": "Feline",
       "params": [
         {
           "id": 0,
-          "value": 7.30000401
+          "value": 6.18999529
         },
         {
           "id": 1,
-          "value": 2.76000047
+          "value": 3.92999768
         },
         {
           "id": 2,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 3,
@@ -8782,19 +9815,19 @@
         },
         {
           "id": 4,
-          "value": 0.430000007
+          "value": 0.0280000754
         },
         {
           "id": 5,
-          "value": 0.465000451
+          "value": 0.546999991
         },
         {
           "id": 6,
-          "value": 0.0
+          "value": 0.118500061
         },
         {
           "id": 7,
-          "value": 0.0
+          "value": 0.101999938
         },
         {
           "id": 8,
@@ -8806,11 +9839,11 @@
         },
         {
           "id": 10,
-          "value": -1.0
+          "value": 1.0
         },
         {
           "id": 11,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 12,
@@ -8833,672 +9866,320 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 1551,
-      "rightModuleId": 1563,
+      "leftModuleId": 1699,
+      "rightModuleId": 1692,
       "data": {
         "panelStyle": 0
       },
       "pos": [
-        85,
+        63,
         1
-      ]
-    },
-    {
-      "id": 1592,
-      "plugin": "LifeFormModular",
-      "version": "1.1",
-      "model": "PercussiveVibration",
-      "params": [
-        {
-          "id": 0,
-          "value": 9.0
-        },
-        {
-          "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 0.100000001
-        },
-        {
-          "id": 3,
-          "value": 1.0
-        },
-        {
-          "id": 4,
-          "value": -0.675712943
-        },
-        {
-          "id": 5,
-          "value": 0.0
-        },
-        {
-          "id": 6,
-          "value": 0.616141081
-        },
-        {
-          "id": 7,
-          "value": 0.0
-        },
-        {
-          "id": 8,
-          "value": 0.512012899
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        },
-        {
-          "id": 10,
-          "value": 0.118500046
-        },
-        {
-          "id": 11,
-          "value": 3.0
-        },
-        {
-          "id": 12,
-          "value": 0.0
-        },
-        {
-          "id": 13,
-          "value": -0.271425128
-        },
-        {
-          "id": 14,
-          "value": -0.559266925
-        },
-        {
-          "id": 15,
-          "value": -0.913069248
-        },
-        {
-          "id": 16,
-          "value": -0.660514235
-        },
-        {
-          "id": 17,
-          "value": 0.0
-        },
-        {
-          "id": 18,
-          "value": 0.0
-        },
-        {
-          "id": 19,
-          "value": 0.0
-        },
-        {
-          "id": 20,
-          "value": 0.535773993
-        },
-        {
-          "id": 21,
-          "value": -0.281942964
-        },
-        {
-          "id": 22,
-          "value": -0.0888057947
-        },
-        {
-          "id": 23,
-          "value": 0.329628348
-        },
-        {
-          "id": 24,
-          "value": 0.0
-        },
-        {
-          "id": 25,
-          "value": -0.264093399
-        }
-      ],
-      "leftModuleId": 1571,
-      "rightModuleId": 1593,
-      "pos": [
-        61,
-        2
-      ]
-    },
-    {
-      "id": 1593,
-      "plugin": "AlrightDevices",
-      "version": "1.0.3",
-      "model": "Chronoblob2",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.360499948
-        },
-        {
-          "id": 1,
-          "value": 0.233001292
-        },
-        {
-          "id": 2,
-          "value": 1.0
-        },
-        {
-          "id": 3,
-          "value": 0.0
-        },
-        {
-          "id": 4,
-          "value": -0.14699997
-        },
-        {
-          "id": 5,
-          "value": 0.201000184
-        },
-        {
-          "id": 6,
-          "value": 0.0
-        },
-        {
-          "id": 7,
-          "value": 0.0
-        },
-        {
-          "id": 8,
-          "value": 1.0
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1592,
-      "data": {
-        "delay_mode": 1,
-        "hold_behavior": 0,
-        "sync_prescaler": 6
-      },
-      "pos": [
-        89,
-        2
       ]
     }
   ],
   "cables": [
     {
-      "id": 3460,
-      "outputModuleId": 100,
-      "outputId": 2,
-      "inputModuleId": 1,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
-      "id": 3461,
-      "outputModuleId": 100,
-      "outputId": 3,
-      "inputModuleId": 1,
-      "inputId": 1,
-      "color": "#c91847"
-    },
-    {
       "id": 3465,
-      "outputModuleId": 100,
-      "outputId": 4,
+      "outputModuleId": 1689,
+      "outputId": 5,
       "inputModuleId": 991,
       "inputId": 0,
       "color": "#0986ad"
     },
     {
       "id": 3466,
-      "outputModuleId": 100,
-      "outputId": 5,
+      "outputModuleId": 1689,
+      "outputId": 7,
       "inputModuleId": 991,
       "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3472,
+      "outputModuleId": 1689,
+      "outputId": 6,
+      "inputModuleId": 991,
+      "inputId": 1,
       "color": "#0986ad"
     },
     {
       "id": 3467,
       "outputModuleId": 991,
       "outputId": 0,
-      "inputModuleId": 100,
-      "inputId": 38,
+      "inputModuleId": 1689,
+      "inputId": 74,
       "color": "#0986ad"
     },
     {
       "id": 3468,
       "outputModuleId": 991,
       "outputId": 2,
-      "inputModuleId": 100,
-      "inputId": 39,
+      "inputModuleId": 1689,
+      "inputId": 76,
       "color": "#0986ad"
     },
     {
-      "id": 4797,
-      "outputModuleId": 1555,
+      "id": 3473,
+      "outputModuleId": 991,
+      "outputId": 1,
+      "inputModuleId": 1689,
+      "inputId": 75,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3471,
+      "outputModuleId": 1686,
       "outputId": 0,
-      "inputModuleId": 1553,
+      "inputModuleId": 1689,
       "inputId": 0,
-      "color": "#0c8e15"
+      "color": "#c91847"
+    },
+    {
+      "id": 3470,
+      "outputModuleId": 1687,
+      "outputId": 0,
+      "inputModuleId": 1689,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 3469,
+      "outputModuleId": 1688,
+      "outputId": 0,
+      "inputModuleId": 1689,
+      "inputId": 4,
+      "color": "#c91847"
+    },
+    {
+      "id": 3474,
+      "outputModuleId": 1689,
+      "outputId": 3,
+      "inputModuleId": 1,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 3475,
+      "outputModuleId": 1689,
+      "outputId": 4,
+      "inputModuleId": 1,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 4797,
+      "outputModuleId": 1693,
+      "outputId": 0,
+      "inputModuleId": 1686,
+      "inputId": 0,
+      "color": "#0986ad"
     },
     {
       "id": 4798,
-      "outputModuleId": 1554,
-      "outputId": 0,
-      "inputModuleId": 1552,
+      "outputModuleId": 1693,
+      "outputId": 1,
+      "inputModuleId": 1687,
       "inputId": 0,
-      "color": "#0c8e15"
+      "color": "#0986ad"
     },
     {
       "id": 4799,
-      "outputModuleId": 1549,
+      "outputModuleId": 1693,
       "outputId": 2,
-      "inputModuleId": 1555,
-      "inputId": 3,
+      "inputModuleId": 1688,
+      "inputId": 0,
       "color": "#0986ad"
     },
     {
       "id": 4800,
-      "outputModuleId": 1549,
+      "outputModuleId": 1693,
       "outputId": 3,
-      "inputModuleId": 1554,
-      "inputId": 3,
+      "inputModuleId": 1694,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 4801,
+      "outputModuleId": 1694,
+      "outputId": 0,
+      "inputModuleId": 1689,
+      "inputId": 6,
+      "color": "#c91847"
+    },
+    {
+      "id": 4802,
+      "outputModuleId": 1682,
+      "outputId": 0,
+      "inputModuleId": 1693,
+      "inputId": 0,
       "color": "#0986ad"
     },
     {
       "id": 4803,
-      "outputModuleId": 1551,
-      "outputId": 0,
-      "inputModuleId": 1552,
+      "outputModuleId": 1683,
+      "outputId": 7,
+      "inputModuleId": 1693,
       "inputId": 1,
-      "color": "#c91847"
-    },
-    {
-      "id": 4806,
-      "outputModuleId": 1549,
-      "outputId": 2,
-      "inputModuleId": 1559,
-      "inputId": 8,
       "color": "#0986ad"
-    },
-    {
-      "id": 4807,
-      "outputModuleId": 1549,
-      "outputId": 3,
-      "inputModuleId": 1559,
-      "inputId": 9,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4808,
-      "outputModuleId": 1549,
-      "outputId": 0,
-      "inputModuleId": 1559,
-      "inputId": 0,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4809,
-      "outputModuleId": 1549,
-      "outputId": 0,
-      "inputModuleId": 1559,
-      "inputId": 1,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4810,
-      "outputModuleId": 1559,
-      "outputId": 0,
-      "inputModuleId": 1560,
-      "inputId": 2,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4811,
-      "outputModuleId": 1559,
-      "outputId": 1,
-      "inputModuleId": 1560,
-      "inputId": 3,
-      "color": "#c9b70e"
     },
     {
       "id": 4812,
-      "outputModuleId": 1560,
+      "outputModuleId": 1699,
       "outputId": 0,
-      "inputModuleId": 1550,
-      "inputId": 4,
-      "color": "#c9b70e"
+      "inputModuleId": 1700,
+      "inputId": 0,
+      "color": "#0c8e15"
     },
     {
       "id": 4813,
-      "outputModuleId": 1560,
-      "outputId": 1,
-      "inputModuleId": 1551,
-      "inputId": 4,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4802,
-      "outputModuleId": 1550,
+      "outputModuleId": 1698,
       "outputId": 0,
-      "inputModuleId": 1553,
+      "inputModuleId": 1700,
       "inputId": 1,
       "color": "#c91847"
     },
     {
-      "id": 4822,
-      "outputModuleId": 1568,
+      "id": 4815,
+      "outputModuleId": 1692,
       "outputId": 0,
-      "inputModuleId": 1567,
-      "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4823,
-      "outputModuleId": 1556,
-      "outputId": 7,
-      "inputModuleId": 1567,
-      "inputId": 1,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4825,
-      "outputModuleId": 1564,
-      "outputId": 0,
-      "inputModuleId": 100,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
-      "id": 4826,
-      "outputModuleId": 1567,
-      "outputId": 0,
-      "inputModuleId": 1564,
-      "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4827,
-      "outputModuleId": 1567,
-      "outputId": 1,
-      "inputModuleId": 1565,
-      "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4828,
-      "outputModuleId": 1565,
-      "outputId": 0,
-      "inputModuleId": 100,
-      "inputId": 2,
-      "color": "#c91847"
-    },
-    {
-      "id": 4829,
-      "outputModuleId": 1567,
-      "outputId": 2,
-      "inputModuleId": 1566,
-      "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4830,
-      "outputModuleId": 1566,
-      "outputId": 0,
-      "inputModuleId": 100,
-      "inputId": 4,
+      "inputModuleId": 1689,
+      "inputId": 8,
       "color": "#c91847"
     },
     {
       "id": 4816,
-      "outputModuleId": 1562,
-      "outputId": 6,
-      "inputModuleId": 1550,
-      "inputId": 2,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 4817,
-      "outputModuleId": 1562,
-      "outputId": 7,
-      "inputModuleId": 1551,
-      "inputId": 2,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 4834,
-      "outputModuleId": 1549,
-      "outputId": 0,
-      "inputModuleId": 1559,
-      "inputId": 2,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4836,
-      "outputModuleId": 1570,
-      "outputId": 0,
-      "inputModuleId": 1571,
-      "inputId": 0,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 4835,
-      "outputModuleId": 1559,
-      "outputId": 2,
-      "inputModuleId": 1560,
-      "inputId": 4,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4843,
-      "outputModuleId": 1560,
-      "outputId": 2,
-      "inputModuleId": 1573,
-      "inputId": 2,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4844,
-      "outputModuleId": 1573,
-      "outputId": 0,
-      "inputModuleId": 1575,
-      "inputId": 0,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4845,
-      "outputModuleId": 1575,
-      "outputId": 0,
-      "inputModuleId": 1571,
-      "inputId": 1,
-      "color": "#c91847"
-    },
-    {
-      "id": 4801,
-      "outputModuleId": 1568,
-      "outputId": 0,
-      "inputModuleId": 1549,
-      "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4855,
-      "outputModuleId": 1549,
-      "outputId": 5,
-      "inputModuleId": 1559,
-      "inputId": 10,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4856,
-      "outputModuleId": 1549,
-      "outputId": 5,
-      "inputModuleId": 1570,
-      "inputId": 3,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4881,
-      "outputModuleId": 1562,
-      "outputId": 3,
-      "inputModuleId": 1587,
-      "inputId": 5,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 4882,
-      "outputModuleId": 1562,
-      "outputId": 4,
-      "inputModuleId": 1587,
-      "inputId": 6,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 4877,
-      "outputModuleId": 1553,
-      "outputId": 0,
-      "inputModuleId": 1587,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
-      "id": 4878,
-      "outputModuleId": 1552,
-      "outputId": 0,
-      "inputModuleId": 1587,
-      "inputId": 1,
-      "color": "#c91847"
-    },
-    {
-      "id": 4885,
-      "outputModuleId": 1549,
-      "outputId": 4,
-      "inputModuleId": 1592,
-      "inputId": 7,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4886,
-      "outputModuleId": 1592,
+      "outputModuleId": 1692,
       "outputId": 1,
-      "inputModuleId": 1593,
-      "inputId": 5,
-      "color": "#c91847"
-    },
-    {
-      "id": 4889,
-      "outputModuleId": 1549,
-      "outputId": 4,
-      "inputModuleId": 1559,
-      "inputId": 11,
-      "color": "#0986ad"
-    },
-    {
-      "id": 4890,
-      "outputModuleId": 1549,
-      "outputId": 0,
-      "inputModuleId": 1559,
-      "inputId": 3,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4891,
-      "outputModuleId": 1559,
-      "outputId": 3,
-      "inputModuleId": 1560,
-      "inputId": 5,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4892,
-      "outputModuleId": 1560,
-      "outputId": 3,
-      "inputModuleId": 1592,
-      "inputId": 1,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4857,
-      "outputModuleId": 1562,
-      "outputId": 2,
-      "inputModuleId": 1565,
-      "inputId": 1,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 4893,
-      "outputModuleId": 1587,
-      "outputId": 0,
-      "inputModuleId": 1563,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
-      "id": 4894,
-      "outputModuleId": 1587,
-      "outputId": 1,
-      "inputModuleId": 1563,
-      "inputId": 1,
-      "color": "#c91847"
-    },
-    {
-      "id": 4887,
-      "outputModuleId": 1593,
-      "outputId": 0,
-      "inputModuleId": 100,
-      "inputId": 12,
-      "color": "#c91847"
-    },
-    {
-      "id": 4888,
-      "outputModuleId": 1593,
-      "outputId": 1,
-      "inputModuleId": 100,
-      "inputId": 13,
-      "color": "#c91847"
-    },
-    {
-      "id": 4895,
-      "outputModuleId": 1563,
-      "outputId": 0,
-      "inputModuleId": 100,
-      "inputId": 6,
-      "color": "#c91847"
-    },
-    {
-      "id": 4896,
-      "outputModuleId": 1563,
-      "outputId": 1,
-      "inputModuleId": 100,
-      "inputId": 7,
-      "color": "#c91847"
-    },
-    {
-      "id": 4897,
-      "outputModuleId": 1587,
-      "outputId": 0,
-      "inputModuleId": 100,
-      "inputId": 8,
-      "color": "#c91847"
-    },
-    {
-      "id": 4898,
-      "outputModuleId": 1587,
-      "outputId": 1,
-      "inputModuleId": 100,
+      "inputModuleId": 1689,
       "inputId": 9,
       "color": "#c91847"
     },
     {
-      "id": 4831,
-      "outputModuleId": 1562,
+      "id": 4818,
+      "outputModuleId": 1691,
       "outputId": 0,
-      "inputModuleId": 1566,
+      "inputModuleId": 1701,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 4820,
+      "outputModuleId": 1691,
+      "outputId": 0,
+      "inputModuleId": 1699,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 4817,
+      "outputModuleId": 1684,
+      "outputId": 2,
+      "inputModuleId": 1701,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 4828,
+      "outputModuleId": 1697,
+      "outputId": 0,
+      "inputModuleId": 1698,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 4829,
+      "outputModuleId": 1697,
+      "outputId": 1,
+      "inputModuleId": 1698,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 4830,
+      "outputModuleId": 1697,
+      "outputId": 2,
+      "inputModuleId": 1698,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 4831,
+      "outputModuleId": 1697,
+      "outputId": 3,
+      "inputModuleId": 1698,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 4833,
+      "outputModuleId": 1691,
+      "outputId": 0,
+      "inputModuleId": 1701,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 4834,
+      "outputModuleId": 1684,
+      "outputId": 1,
+      "inputModuleId": 1701,
       "inputId": 1,
       "color": "#0c8e15"
     },
     {
-      "id": 4900,
-      "outputModuleId": 1562,
+      "id": 4814,
+      "outputModuleId": 1700,
       "outputId": 0,
-      "inputModuleId": 100,
-      "inputId": 28,
+      "inputModuleId": 1703,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 4835,
+      "outputModuleId": 1703,
+      "outputId": 0,
+      "inputModuleId": 1692,
+      "inputId": 5,
+      "color": "#c91847"
+    },
+    {
+      "id": 4836,
+      "outputModuleId": 1703,
+      "outputId": 1,
+      "inputModuleId": 1692,
+      "inputId": 6,
+      "color": "#c91847"
+    },
+    {
+      "id": 4832,
+      "outputModuleId": 1701,
+      "outputId": 0,
+      "inputModuleId": 1697,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 4839,
+      "outputModuleId": 1701,
+      "outputId": 1,
+      "inputModuleId": 1698,
+      "inputId": 6,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 4841,
+      "outputModuleId": 1684,
+      "outputId": 3,
+      "inputModuleId": 1703,
+      "inputId": 5,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 4840,
+      "outputModuleId": 1684,
+      "outputId": 3,
+      "inputModuleId": 1703,
+      "inputId": 2,
       "color": "#0c8e15"
     }
   ]

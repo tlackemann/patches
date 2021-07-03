@@ -26,7 +26,7 @@
     {
       "id": 100,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "MixMasterJr",
       "params": [
         {
@@ -495,7 +495,7 @@
     {
       "id": 101,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "AuxExpanderJr",
       "params": [
         {
@@ -845,7 +845,7 @@
     {
       "id": 991,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "EqMaster",
       "params": [
         {
@@ -2103,11 +2103,11 @@
       "params": [
         {
           "id": 0,
-          "value": 7.08000898
+          "value": 6.28000355
         },
         {
           "id": 1,
-          "value": 2.01000071
+          "value": 3.6899991
         },
         {
           "id": 2,
@@ -2842,7 +2842,7 @@
         },
         {
           "id": 38,
-          "value": 10.0
+          "value": 1.0
         },
         {
           "id": 39,
@@ -12308,7 +12308,7 @@
     {
       "id": 1428,
       "plugin": "VultModulesFree",
-      "version": "1.14",
+      "version": "1.15",
       "model": "Basal",
       "params": [
         {
@@ -12567,7 +12567,7 @@
     {
       "id": 1436,
       "plugin": "VultModulesFree",
-      "version": "1.14",
+      "version": "1.15",
       "model": "Stabile",
       "params": [
         {
@@ -13151,14 +13151,6 @@
       "color": "#0986ad"
     },
     {
-      "id": 4505,
-      "outputModuleId": 1429,
-      "outputId": 0,
-      "inputModuleId": 1434,
-      "inputId": 0,
-      "color": "#c9b70e"
-    },
-    {
       "id": 4564,
       "outputModuleId": 1434,
       "outputId": 0,
@@ -13181,6 +13173,14 @@
       "inputModuleId": 1444,
       "inputId": 3,
       "color": "#0c8e15"
+    },
+    {
+      "id": 5278,
+      "outputModuleId": 1433,
+      "outputId": 0,
+      "inputModuleId": 1434,
+      "inputId": 0,
+      "color": "#c9b70e"
     }
   ]
 }

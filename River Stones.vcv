@@ -26,12 +26,12 @@
     {
       "id": 100,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "MixMasterJr",
       "params": [
         {
           "id": 0,
-          "value": 1.0
+          "value": 0.886606932
         },
         {
           "id": 1,
@@ -119,7 +119,7 @@
         },
         {
           "id": 22,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 23,
@@ -339,7 +339,7 @@
         "groupedAuxReturnFeedbackProtection": 1,
         "ecoMode": 65535,
         "faders": [
-          1.0,
+          0.886606932,
           1.0,
           1.0,
           1.0,
@@ -495,7 +495,7 @@
     {
       "id": 101,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "AuxExpanderJr",
       "params": [
         {
@@ -548,7 +548,7 @@
         },
         {
           "id": 12,
-          "value": 0.304500371
+          "value": 0.0
         },
         {
           "id": 13,
@@ -1107,7 +1107,7 @@
     {
       "id": 857,
       "plugin": "ImpromptuModular",
-      "version": "1.1.10",
+      "version": "1.1.11",
       "model": "Gate-Seq-64",
       "params": [
         {
@@ -3627,7 +3627,7 @@
         },
         {
           "id": 1,
-          "value": 0.0
+          "value": 0.32850036
         },
         {
           "id": 2,
@@ -6727,7 +6727,7 @@
     {
       "id": 861,
       "plugin": "ImpromptuModular",
-      "version": "1.1.10",
+      "version": "1.1.11",
       "model": "Gate-Seq-64",
       "params": [
         {
@@ -12889,7 +12889,7 @@
     {
       "id": 927,
       "plugin": "ImpromptuModular",
-      "version": "1.1.10",
+      "version": "1.1.11",
       "model": "Clocked-Clkd",
       "params": [
         {
@@ -13469,7 +13469,7 @@
     {
       "id": 947,
       "plugin": "VultModulesFree",
-      "version": "1.14",
+      "version": "1.16",
       "model": "Lateralus",
       "params": [
         {
@@ -13578,7 +13578,7 @@
         },
         {
           "id": 2,
-          "value": 0.444400162
+          "value": 0.422799885
         },
         {
           "id": 3,
@@ -13594,7 +13594,7 @@
         },
         {
           "id": 6,
-          "value": 0.944000423
+          "value": 0.656000733
         },
         {
           "id": 7,
@@ -13602,7 +13602,7 @@
         },
         {
           "id": 8,
-          "value": 0.426000118
+          "value": 0.573000252
         },
         {
           "id": 9,
@@ -13610,7 +13610,7 @@
         },
         {
           "id": 10,
-          "value": 0.577500045
+          "value": 0.496500582
         },
         {
           "id": 11,
@@ -13618,7 +13618,7 @@
         },
         {
           "id": 12,
-          "value": 0.0240000356
+          "value": 0.0
         },
         {
           "id": 13,
@@ -13642,7 +13642,7 @@
         },
         {
           "id": 18,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 19,
@@ -13662,7 +13662,7 @@
         },
         {
           "id": 23,
-          "value": 0.54249984
+          "value": 0.67950052
         },
         {
           "id": 24,
@@ -13687,7 +13687,7 @@
       "params": [
         {
           "id": 0,
-          "value": 7.69000006
+          "value": 7.42000103
         },
         {
           "id": 1,
@@ -13711,7 +13711,7 @@
         },
         {
           "id": 6,
-          "value": 0.376500189
+          "value": 0.54300046
         },
         {
           "id": 7,
@@ -14308,7 +14308,7 @@
     {
       "id": 971,
       "plugin": "CountModula",
-      "version": "1.13.0",
+      "version": "1.14.0",
       "model": "ClockDivider",
       "params": [
         {
@@ -14324,7 +14324,7 @@
       "rightModuleId": 966,
       "data": {
         "moduleVersion": 1,
-        "count": 499,
+        "count": 276,
         "theme": 3
       },
       "pos": [
@@ -14335,7 +14335,7 @@
     {
       "id": 972,
       "plugin": "Stoermelder-P1",
-      "version": "1.8.0",
+      "version": "1.9.0",
       "model": "Strip",
       "params": [
         {
@@ -14361,12 +14361,13 @@
       ],
       "rightModuleId": 928,
       "data": {
-        "panelTheme": 0,
         "mode": 0,
+        "panelTheme": 0,
         "onMode": 0,
         "excludedParams": [],
         "randomExcl": 1,
-        "randomParamsOnly": false
+        "randomParamsOnly": false,
+        "presetLoadReplace": false
       },
       "pos": [
         3,
@@ -14376,7 +14377,7 @@
     {
       "id": 1020,
       "plugin": "MindMeldModular",
-      "version": "1.1.12",
+      "version": "1.1.14",
       "model": "EqMaster",
       "params": [
         {
@@ -14389,7 +14390,7 @@
         },
         {
           "id": 2,
-          "value": 4.61999941
+          "value": 2.46000099
         },
         {
           "id": 3,
@@ -14433,11 +14434,11 @@
         },
         {
           "id": 13,
-          "value": 0.0
+          "value": 2.94000864
         },
         {
           "id": 14,
-          "value": 0.0
+          "value": 8.81999207
         },
         {
           "id": 15,
@@ -14765,8 +14766,8 @@
           0.0,
           -20.0,
           0.0,
-          0.0,
-          0.0,
+          2.94000864,
+          8.81999207,
           0.0,
           0.0,
           0.0,
@@ -15296,7 +15297,7 @@
           0.0,
           0.0,
           0.0,
-          4.61999941,
+          2.46000099,
           0.0,
           0.0,
           0.0,
@@ -15679,14 +15680,6 @@
       "color": "#c9b70e"
     },
     {
-      "id": 3512,
-      "outputModuleId": 951,
-      "outputId": 0,
-      "inputModuleId": 100,
-      "inputId": 6,
-      "color": "#c91847"
-    },
-    {
       "id": 3510,
       "outputModuleId": 857,
       "outputId": 3,
@@ -15839,14 +15832,6 @@
       "color": "#c91847"
     },
     {
-      "id": 3513,
-      "outputModuleId": 951,
-      "outputId": 1,
-      "inputModuleId": 100,
-      "inputId": 7,
-      "color": "#c91847"
-    },
-    {
       "id": 3478,
       "outputModuleId": 943,
       "outputId": 0,
@@ -15884,6 +15869,22 @@
       "outputId": 5,
       "inputModuleId": 1020,
       "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 3512,
+      "outputModuleId": 951,
+      "outputId": 0,
+      "inputModuleId": 100,
+      "inputId": 6,
+      "color": "#c91847"
+    },
+    {
+      "id": 3513,
+      "outputModuleId": 951,
+      "outputId": 1,
+      "inputModuleId": 100,
+      "inputId": 7,
       "color": "#c91847"
     }
   ]
