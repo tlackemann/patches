@@ -31,7 +31,7 @@
       "params": [
         {
           "id": 0,
-          "value": 5.0
+          "value": 4.0
         },
         {
           "id": 1,
@@ -39,7 +39,7 @@
         },
         {
           "id": 2,
-          "value": 10.6800022
+          "value": -16.3399963
         },
         {
           "id": 3,
@@ -59,7 +59,7 @@
         },
         {
           "id": 7,
-          "value": 1.59739375
+          "value": 1.47157967
         },
         {
           "id": 8,
@@ -319,11 +319,11 @@
           2.5440681,
           3.17609119,
           3.69897008,
-          1.47367823,
+          1.47157967,
           2.5440681,
           3.17609119,
           3.69897008,
-          1.59739375,
+          2.0,
           2.5440681,
           3.17609119,
           3.69897008,
@@ -421,7 +421,7 @@
           0.0,
           0.0,
           0.0,
-          -20.0,
+          0.0,
           0.0,
           0.0,
           0.0,
@@ -947,8 +947,8 @@
           0.0,
           0.0,
           0.0,
-          -3.78000259,
-          10.6800022,
+          -16.3399963,
+          0.0,
           0.0,
           0.0,
           0.0,
@@ -977,7 +977,7 @@
     {
       "id": 1311,
       "plugin": "Stoermelder-P1",
-      "version": "1.10.0",
+      "version": "1.9.0",
       "model": "Mb",
       "params": [],
       "rightModuleId": 1312,
@@ -992,7 +992,7 @@
     {
       "id": 1312,
       "plugin": "Stoermelder-P1",
-      "version": "1.10.0",
+      "version": "1.9.0",
       "model": "Strip",
       "params": [
         {
@@ -1071,7 +1071,7 @@
       "params": [
         {
           "id": 0,
-          "value": 110.0
+          "value": 138.0
         },
         {
           "id": 1,
@@ -1123,7 +1123,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.316999942
+          "value": 0.403999895
         },
         {
           "id": 1,
@@ -1131,7 +1131,7 @@
         }
       ],
       "leftModuleId": 1691,
-      "rightModuleId": 1692,
+      "rightModuleId": 1945,
       "data": {
         "deviations": {
           "lfos": [
@@ -1223,11 +1223,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.342000008
+          "value": 0.0
         },
         {
           "id": 1,
-          "value": 0.304500341
+          "value": 0.0
         },
         {
           "id": 2,
@@ -1245,7 +1245,7 @@
         "useHardareCVLimit": false,
         "lowResDistort": true,
         "patchVersion": 4,
-        "quad": 0,
+        "quad": 4,
         "patches": [
           {
             "patchData": [
@@ -2382,11 +2382,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.0
+          "value": 0.226500198
         },
         {
           "id": 1,
-          "value": 0.0
+          "value": 0.18599999
         },
         {
           "id": 2,
@@ -2404,7 +2404,7 @@
         "useHardareCVLimit": false,
         "lowResDistort": true,
         "patchVersion": 2,
-        "quad": 1,
+        "quad": 4,
         "patches": [
           {
             "patchData": [
@@ -3429,11 +3429,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.286500365
+          "value": 0.063000001
         },
         {
           "id": 1,
-          "value": 0.351000577
+          "value": 0.387000114
         },
         {
           "id": 2,
@@ -3451,7 +3451,7 @@
         "useHardareCVLimit": false,
         "lowResDistort": true,
         "patchVersion": 8,
-        "quad": 6,
+        "quad": 4,
         "patches": [
           {
             "patchData": [
@@ -4436,11 +4436,11 @@
         },
         {
           "id": 2,
-          "value": 0.82235074
+          "value": 1.0
         },
         {
           "id": 3,
-          "value": 0.841249704
+          "value": 1.0
         },
         {
           "id": 4,
@@ -4760,7 +4760,7 @@
         },
         {
           "id": 83,
-          "value": 1.24858177
+          "value": 1.0
         },
         {
           "id": 84,
@@ -5010,8 +5010,8 @@
         "faders": [
           1.0,
           1.0,
-          0.82235074,
-          0.841249704,
+          1.0,
+          1.0,
           1.0,
           1.0,
           1.0,
@@ -5853,7 +5853,7 @@
       "params": [
         {
           "id": 0,
-          "value": 1.0
+          "value": -4.0
         },
         {
           "id": 1,
@@ -5888,7 +5888,7 @@
         },
         {
           "id": 1,
-          "value": 0.333500177
+          "value": 0.20750083
         },
         {
           "id": 2,
@@ -5900,11 +5900,11 @@
         },
         {
           "id": 4,
-          "value": -0.339000314
+          "value": -0.249000162
         },
         {
           "id": 5,
-          "value": 0.332999855
+          "value": 0.293999732
         },
         {
           "id": 6,
@@ -5923,15 +5923,15 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 1684,
-      "rightModuleId": 1918,
+      "leftModuleId": 1942,
+      "rightModuleId": 1943,
       "data": {
         "delay_mode": 1,
         "hold_behavior": 0,
         "sync_prescaler": 6
       },
       "pos": [
-        20,
+        63,
         1
       ]
     },
@@ -6282,9 +6282,9 @@
         "pulsesPerStep": 1,
         "running": true,
         "runModeSong3": 0,
-        "stepIndexEdit": 62,
+        "stepIndexEdit": 4,
         "phraseIndexEdit": 0,
-        "sequence": 0,
+        "sequence": 1,
         "phrases": 4,
         "attributes2": [
           562,
@@ -6293,6 +6293,86 @@
           50,
           50,
           50,
+          562,
+          50,
+          50,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          50,
+          50,
+          562,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          562,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
           50,
           50,
           562,
@@ -6319,36 +6399,6 @@
           50,
           50,
           50,
-          50,
-          50,
-          562,
-          50,
-          50,
-          50,
-          562,
-          50,
-          50,
-          50,
-          562,
-          50,
-          50,
-          50,
-          562,
-          50,
-          562,
-          50,
-          562,
-          50,
-          562,
-          50,
-          562,
-          50,
-          562,
-          50,
-          562,
-          50,
-          562,
-          50,
           562,
           50,
           50,
@@ -6363,57 +6413,7 @@
           50,
           50,
           50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
-          50,
+          562,
           50,
           50,
           50,
@@ -8453,11 +8453,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.0
+          "value": 0.292500079
         },
         {
           "id": 1,
-          "value": 0.11550007
+          "value": 0.282000035
         },
         {
           "id": 2,
@@ -8469,13 +8469,13 @@
         }
       ],
       "leftModuleId": 1688,
-      "rightModuleId": 2031,
+      "rightModuleId": 1941,
       "data": {
         "output12bit": true,
         "useHardareCVLimit": false,
         "lowResDistort": true,
         "patchVersion": 8,
-        "quad": 0,
+        "quad": 4,
         "patches": [
           {
             "patchData": [
@@ -9445,23 +9445,10 @@
       ]
     },
     {
-      "id": 1918,
-      "plugin": "ML_modules",
-      "version": "1.1.3",
-      "model": "SH8",
-      "params": [],
-      "leftModuleId": 1692,
-      "rightModuleId": 1919,
-      "pos": [
-        32,
-        1
-      ]
-    },
-    {
-      "id": 1919,
-      "plugin": "az",
-      "version": "1.1.1",
-      "model": "modulo",
+      "id": 1940,
+      "plugin": "Instruo",
+      "version": "1.1.0",
+      "model": "harmonaig",
       "params": [
         {
           "id": 0,
@@ -9489,7 +9476,7 @@
         },
         {
           "id": 6,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 7,
@@ -9505,7 +9492,7 @@
         },
         {
           "id": 10,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 11,
@@ -9525,7 +9512,7 @@
         },
         {
           "id": 15,
-          "value": 0.0
+          "value": -0.0891000256
         },
         {
           "id": 16,
@@ -9565,7 +9552,7 @@
         },
         {
           "id": 25,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 26,
@@ -9609,249 +9596,181 @@
         },
         {
           "id": 36,
-          "value": 0.0
+          "value": 6.0
         },
         {
           "id": 37,
-          "value": 10.7320261
+          "value": 0.0
         },
         {
           "id": 38,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 39,
-          "value": 6.03950262
+          "value": 0.0
         },
         {
           "id": 40,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 41,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 42,
-          "value": 0.0
+          "value": 1.0
+        },
+        {
+          "id": 43,
+          "value": 1.0
+        },
+        {
+          "id": 44,
+          "value": 1.0
+        },
+        {
+          "id": 45,
+          "value": 1.0
         }
       ],
-      "leftModuleId": 1918,
+      "rightModuleId": 1942,
+      "data": {
+        "mode": 0
+      },
+      "pos": [
+        33,
+        1
+      ]
+    },
+    {
+      "id": 1941,
+      "plugin": "ML_modules",
+      "version": "1.1.3",
+      "model": "SH8",
+      "params": [],
+      "leftModuleId": 1694,
       "pos": [
         40,
-        1
-      ]
-    },
-    {
-      "id": 1920,
-      "plugin": "AudibleInstruments",
-      "version": "1.5.0",
-      "model": "Rings",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0
-        },
-        {
-          "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 42.0
-        },
-        {
-          "id": 3,
-          "value": 0.810499787
-        },
-        {
-          "id": 4,
-          "value": 0.609499514
-        },
-        {
-          "id": 5,
-          "value": 0.295999974
-        },
-        {
-          "id": 6,
-          "value": 0.778999984
-        },
-        {
-          "id": 7,
-          "value": 0.0
-        },
-        {
-          "id": 8,
-          "value": 0.0
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        },
-        {
-          "id": 10,
-          "value": 0.0
-        },
-        {
-          "id": 11,
-          "value": 0.0
-        }
-      ],
-      "rightModuleId": 2028,
-      "data": {
-        "polyphony": 0,
-        "model": 1,
-        "easterEgg": false
-      },
-      "pos": [
-        59,
-        1
-      ]
-    },
-    {
-      "id": 2028,
-      "plugin": "AlrightDevices",
-      "version": "1.0.3",
-      "model": "Chronoblob2",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.5
-        },
-        {
-          "id": 1,
-          "value": 0.380000114
-        },
-        {
-          "id": 2,
-          "value": 0.5
-        },
-        {
-          "id": 3,
-          "value": 0.0
-        },
-        {
-          "id": 4,
-          "value": -0.32100004
-        },
-        {
-          "id": 5,
-          "value": 0.356999964
-        },
-        {
-          "id": 6,
-          "value": 0.0
-        },
-        {
-          "id": 7,
-          "value": 0.0
-        },
-        {
-          "id": 8,
-          "value": 1.0
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 1920,
-      "rightModuleId": 2033,
-      "data": {
-        "delay_mode": 1,
-        "hold_behavior": 0,
-        "sync_prescaler": 6
-      },
-      "pos": [
-        73,
-        1
-      ]
-    },
-    {
-      "id": 2030,
-      "plugin": "Valley",
-      "version": "1.1.7",
-      "model": "Feline",
-      "params": [
-        {
-          "id": 0,
-          "value": 6.93999481
-        },
-        {
-          "id": 1,
-          "value": 4.71000338
-        },
-        {
-          "id": 2,
-          "value": 1.0
-        },
-        {
-          "id": 3,
-          "value": 1.0
-        },
-        {
-          "id": 4,
-          "value": 0.0
-        },
-        {
-          "id": 5,
-          "value": 0.288000017
-        },
-        {
-          "id": 6,
-          "value": 0.133500412
-        },
-        {
-          "id": 7,
-          "value": 0.0
-        },
-        {
-          "id": 8,
-          "value": 0.0
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        },
-        {
-          "id": 10,
-          "value": 0.0
-        },
-        {
-          "id": 11,
-          "value": 0.0
-        },
-        {
-          "id": 12,
-          "value": 0.0
-        },
-        {
-          "id": 13,
-          "value": 0.0
-        },
-        {
-          "id": 14,
-          "value": 0.0
-        },
-        {
-          "id": 15,
-          "value": 0.0
-        },
-        {
-          "id": 16,
-          "value": 0.0
-        }
-      ],
-      "data": {
-        "panelStyle": 0
-      },
-      "pos": [
-        74,
         2
       ]
     },
     {
-      "id": 2031,
+      "id": 1942,
+      "plugin": "Instruo",
+      "version": "1.1.0",
+      "model": "saich",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.475499988
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 1.0
+        },
+        {
+          "id": 8,
+          "value": 0.5
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1940,
+      "rightModuleId": 1692,
+      "data": {
+        "mixprofile": 0,
+        "mixprofileMem": 0.0,
+        "intervalicOffset": 0.0,
+        "detuneMem": 1.0,
+        "ctrlMode": 1,
+        "cvRoute": 0,
+        "diatonicMode": false,
+        "subOctaveSetting": 0
+      },
+      "pos": [
+        51,
+        1
+      ]
+    },
+    {
+      "id": 1943,
+      "plugin": "NYSTHI",
+      "version": "1.0.17",
+      "model": "AttackDecay",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.321000099
+        },
+        {
+          "id": 1,
+          "value": 0.320499778
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        },
+        {
+          "id": 4,
+          "value": 0.5
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 1692,
+      "rightModuleId": 1944,
+      "data": {
+        "m_looped": false
+      },
+      "pos": [
+        75,
+        1
+      ]
+    },
+    {
+      "id": 1944,
       "plugin": "Fundamental",
       "version": "1.4.0",
       "model": "VCA-1",
@@ -9865,86 +9784,45 @@
           "value": 1.0
         }
       ],
-      "leftModuleId": 1694,
-      "rightModuleId": 2032,
+      "leftModuleId": 1943,
       "pos": [
-        40,
-        2
+        77,
+        1
       ]
     },
     {
-      "id": 2032,
-      "plugin": "NYSTHI",
-      "version": "1.0.17",
-      "model": "AttackDecay",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0254999977
-        },
-        {
-          "id": 1,
-          "value": 0.216999963
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        },
-        {
-          "id": 3,
-          "value": 1.0
-        },
-        {
-          "id": 4,
-          "value": 0.319999844
-        },
-        {
-          "id": 5,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 2031,
-      "data": {
-        "m_looped": false
-      },
-      "pos": [
-        43,
-        2
-      ]
-    },
-    {
-      "id": 2033,
+      "id": 1945,
       "plugin": "Bogaudio",
       "version": "1.1.37",
-      "model": "Bogaudio-FMOp",
+      "model": "Bogaudio-AddrSeq",
       "params": [
         {
           "id": 0,
-          "value": 0.122222215
+          "value": 2.40699959
         },
         {
           "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 0.141421005
-        },
-        {
-          "id": 3,
-          "value": 0.316229999
-        },
-        {
-          "id": 4,
           "value": 1.0
         },
         {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.199000061
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
           "id": 5,
-          "value": 0.316229999
+          "value": 0.0
         },
         {
           "id": 6,
-          "value": 0.175499946
+          "value": 0.0
         },
         {
           "id": 7,
@@ -9952,7 +9830,7 @@
         },
         {
           "id": 8,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 9,
@@ -9961,231 +9839,19 @@
         {
           "id": 10,
           "value": 0.0
-        },
-        {
-          "id": 11,
-          "value": 0.0
         }
       ],
-      "leftModuleId": 2028,
-      "rightModuleId": 2036,
+      "leftModuleId": 1684,
       "data": {
-        "linearLevel": false,
-        "antialias_feedback": true,
-        "antialias_depth": true
+        "poly_input": 0,
+        "select_on_clock": false,
+        "triggered_select": false,
+        "reverse_on_negative_clock": false,
+        "range_offset": 0.0,
+        "range_scale": 10.0
       },
       "pos": [
-        85,
-        1
-      ]
-    },
-    {
-      "id": 2035,
-      "plugin": "NYSTHI",
-      "version": "1.0.17",
-      "model": "AttackDecay",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0254999977
-        },
-        {
-          "id": 1,
-          "value": 0.216999963
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        },
-        {
-          "id": 3,
-          "value": 1.0
-        },
-        {
-          "id": 4,
-          "value": 0.319999844
-        },
-        {
-          "id": 5,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 2036,
-      "rightModuleId": 2037,
-      "data": {
-        "m_looped": false
-      },
-      "pos": [
-        98,
-        1
-      ]
-    },
-    {
-      "id": 2036,
-      "plugin": "Fundamental",
-      "version": "1.4.0",
-      "model": "VCA-1",
-      "params": [
-        {
-          "id": 0,
-          "value": 1.0
-        },
-        {
-          "id": 1,
-          "value": 1.0
-        }
-      ],
-      "leftModuleId": 2033,
-      "rightModuleId": 2035,
-      "pos": [
-        95,
-        1
-      ]
-    },
-    {
-      "id": 2037,
-      "plugin": "Valley",
-      "version": "1.1.7",
-      "model": "Plateau",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.0569999926
-        },
-        {
-          "id": 1,
-          "value": 0.012000001
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        },
-        {
-          "id": 3,
-          "value": 10.0
-        },
-        {
-          "id": 4,
-          "value": 10.0
-        },
-        {
-          "id": 5,
-          "value": 0.736999631
-        },
-        {
-          "id": 6,
-          "value": 10.0
-        },
-        {
-          "id": 7,
-          "value": 0.428463787
-        },
-        {
-          "id": 8,
-          "value": 10.0
-        },
-        {
-          "id": 9,
-          "value": 10.0
-        },
-        {
-          "id": 10,
-          "value": 0.0
-        },
-        {
-          "id": 11,
-          "value": 0.5
-        },
-        {
-          "id": 12,
-          "value": 0.5
-        },
-        {
-          "id": 13,
-          "value": 0.0
-        },
-        {
-          "id": 14,
-          "value": 0.0
-        },
-        {
-          "id": 15,
-          "value": 0.0
-        },
-        {
-          "id": 16,
-          "value": 0.0
-        },
-        {
-          "id": 17,
-          "value": 0.0
-        },
-        {
-          "id": 18,
-          "value": 0.0
-        },
-        {
-          "id": 19,
-          "value": 0.0
-        },
-        {
-          "id": 20,
-          "value": 0.0
-        },
-        {
-          "id": 21,
-          "value": 0.0
-        },
-        {
-          "id": 22,
-          "value": 0.0
-        },
-        {
-          "id": 23,
-          "value": 0.0
-        },
-        {
-          "id": 24,
-          "value": 0.0
-        },
-        {
-          "id": 25,
-          "value": 0.0
-        },
-        {
-          "id": 26,
-          "value": 0.0
-        },
-        {
-          "id": 27,
-          "value": 0.0
-        },
-        {
-          "id": 28,
-          "value": 0.0
-        },
-        {
-          "id": 29,
-          "value": 0.0
-        },
-        {
-          "id": 30,
-          "value": 1.0
-        }
-      ],
-      "leftModuleId": 2035,
-      "data": {
-        "frozen": false,
-        "freezeToggle": false,
-        "panelStyle": 0,
-        "tuned": 0,
-        "diffuseInput": 1,
-        "preDelayCVSens": 0,
-        "inputSensitivity": 0,
-        "outputSaturation": 0
-      },
-      "pos": [
-        100,
+        20,
         1
       ]
     }
@@ -10240,11 +9906,27 @@
       "color": "#0986ad"
     },
     {
+      "id": 3471,
+      "outputModuleId": 1686,
+      "outputId": 0,
+      "inputModuleId": 1689,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
       "id": 3470,
       "outputModuleId": 1687,
       "outputId": 0,
       "inputModuleId": 1689,
       "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 3469,
+      "outputModuleId": 1688,
+      "outputId": 0,
+      "inputModuleId": 1689,
+      "inputId": 4,
       "color": "#c91847"
     },
     {
@@ -10320,244 +10002,196 @@
       "color": "#0986ad"
     },
     {
-      "id": 3469,
-      "outputModuleId": 1688,
-      "outputId": 0,
-      "inputModuleId": 1689,
-      "inputId": 4,
-      "color": "#c91847"
-    },
-    {
-      "id": 5693,
-      "outputModuleId": 1692,
-      "outputId": 0,
-      "inputModuleId": 1689,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
-      "id": 5694,
-      "outputModuleId": 1692,
-      "outputId": 1,
-      "inputModuleId": 1689,
-      "inputId": 1,
-      "color": "#c91847"
-    },
-    {
-      "id": 5695,
+      "id": 5790,
       "outputModuleId": 1684,
+      "outputId": 0,
+      "inputModuleId": 1941,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 5792,
+      "outputModuleId": 1693,
+      "outputId": 2,
+      "inputModuleId": 1941,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 5791,
+      "outputModuleId": 1941,
+      "outputId": 0,
+      "inputModuleId": 1688,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 5794,
+      "outputModuleId": 1684,
+      "outputId": 1,
+      "inputModuleId": 1941,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 5795,
+      "outputModuleId": 1693,
       "outputId": 3,
+      "inputModuleId": 1941,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 5793,
+      "outputModuleId": 1941,
+      "outputId": 1,
+      "inputModuleId": 1694,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 5797,
+      "outputModuleId": 1693,
+      "outputId": 0,
+      "inputModuleId": 1941,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 5799,
+      "outputModuleId": 1684,
+      "outputId": 2,
+      "inputModuleId": 1941,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 5796,
+      "outputModuleId": 1941,
+      "outputId": 2,
       "inputModuleId": 1686,
       "inputId": 2,
       "color": "#0c8e15"
     },
     {
-      "id": 5691,
-      "outputModuleId": 1684,
+      "id": 5800,
+      "outputModuleId": 1940,
       "outputId": 0,
-      "inputModuleId": 1918,
+      "inputModuleId": 1942,
       "inputId": 0,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 5692,
-      "outputModuleId": 1684,
-      "outputId": 1,
-      "inputModuleId": 1918,
-      "inputId": 1,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 5696,
-      "outputModuleId": 1693,
-      "outputId": 2,
-      "inputModuleId": 1918,
-      "inputId": 8,
-      "color": "#0986ad"
-    },
-    {
-      "id": 5697,
-      "outputModuleId": 1918,
-      "outputId": 0,
-      "inputModuleId": 1688,
-      "inputId": 1,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 5698,
-      "outputModuleId": 1918,
-      "outputId": 1,
-      "inputModuleId": 1688,
-      "inputId": 2,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 5699,
-      "outputModuleId": 1691,
-      "outputId": 0,
-      "inputModuleId": 1919,
-      "inputId": 2,
-      "color": "#0986ad"
-    },
-    {
-      "id": 5704,
-      "outputModuleId": 1693,
-      "outputId": 2,
-      "inputModuleId": 1920,
-      "inputId": 5,
-      "color": "#0986ad"
-    },
-    {
-      "id": 5749,
-      "outputModuleId": 1684,
-      "outputId": 3,
-      "inputModuleId": 1920,
-      "inputId": 0,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 5750,
-      "outputModuleId": 1684,
-      "outputId": 4,
-      "inputModuleId": 1920,
-      "inputId": 4,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 5702,
-      "outputModuleId": 2028,
-      "outputId": 0,
-      "inputModuleId": 1689,
-      "inputId": 8,
-      "color": "#c91847"
-    },
-    {
-      "id": 6012,
-      "outputModuleId": 1919,
-      "outputId": 0,
-      "inputModuleId": 1920,
-      "inputId": 6,
       "color": "#c9b70e"
     },
     {
-      "id": 6011,
-      "outputModuleId": 1920,
-      "outputId": 0,
-      "inputModuleId": 2030,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
-      "id": 6013,
-      "outputModuleId": 1920,
-      "outputId": 0,
-      "inputModuleId": 2030,
-      "inputId": 1,
-      "color": "#c91847"
-    },
-    {
-      "id": 6014,
-      "outputModuleId": 2030,
-      "outputId": 0,
-      "inputModuleId": 2028,
-      "inputId": 5,
-      "color": "#c91847"
-    },
-    {
-      "id": 6015,
-      "outputModuleId": 2030,
+      "id": 5801,
+      "outputModuleId": 1940,
       "outputId": 1,
-      "inputModuleId": 2028,
-      "inputId": 6,
-      "color": "#c91847"
+      "inputModuleId": 1942,
+      "inputId": 3,
+      "color": "#c9b70e"
     },
     {
-      "id": 6016,
-      "outputModuleId": 1693,
+      "id": 5802,
+      "outputModuleId": 1940,
+      "outputId": 2,
+      "inputModuleId": 1942,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 5803,
+      "outputModuleId": 1940,
+      "outputId": 3,
+      "inputModuleId": 1942,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 5804,
+      "outputModuleId": 1691,
       "outputId": 0,
-      "inputModuleId": 2032,
+      "inputModuleId": 1943,
       "inputId": 3,
       "color": "#0986ad"
     },
     {
-      "id": 6017,
-      "outputModuleId": 2032,
+      "id": 5805,
+      "outputModuleId": 1943,
       "outputId": 0,
-      "inputModuleId": 2031,
+      "inputModuleId": 1944,
       "inputId": 0,
       "color": "#0c8e15"
     },
     {
-      "id": 3471,
-      "outputModuleId": 2031,
+      "id": 5806,
+      "outputModuleId": 1942,
+      "outputId": 0,
+      "inputModuleId": 1944,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 5808,
+      "outputModuleId": 1691,
+      "outputId": 0,
+      "inputModuleId": 1945,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 5809,
+      "outputModuleId": 1683,
+      "outputId": 7,
+      "inputModuleId": 1945,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 5810,
+      "outputModuleId": 1945,
+      "outputId": 0,
+      "inputModuleId": 1940,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 5807,
+      "outputModuleId": 1944,
       "outputId": 0,
       "inputModuleId": 1692,
       "inputId": 5,
       "color": "#c91847"
     },
     {
-      "id": 6018,
-      "outputModuleId": 1686,
+      "id": 5811,
+      "outputModuleId": 1692,
       "outputId": 0,
-      "inputModuleId": 2031,
-      "inputId": 1,
+      "inputModuleId": 1689,
+      "inputId": 8,
       "color": "#c91847"
     },
     {
-      "id": 6019,
-      "outputModuleId": 1919,
-      "outputId": 0,
-      "inputModuleId": 2033,
-      "inputId": 4,
-      "color": "#c9b70e"
+      "id": 5812,
+      "outputModuleId": 1692,
+      "outputId": 1,
+      "inputModuleId": 1689,
+      "inputId": 9,
+      "color": "#c91847"
     },
     {
-      "id": 6021,
-      "outputModuleId": 1693,
+      "id": 5813,
+      "outputModuleId": 1684,
       "outputId": 3,
-      "inputModuleId": 2035,
-      "inputId": 3,
-      "color": "#0986ad"
-    },
-    {
-      "id": 6022,
-      "outputModuleId": 2035,
-      "outputId": 0,
-      "inputModuleId": 2036,
-      "inputId": 0,
+      "inputModuleId": 1942,
+      "inputId": 6,
       "color": "#0c8e15"
     },
     {
-      "id": 6023,
-      "outputModuleId": 2033,
-      "outputId": 0,
-      "inputModuleId": 2036,
-      "inputId": 1,
-      "color": "#c91847"
-    },
-    {
-      "id": 6024,
-      "outputModuleId": 2036,
-      "outputId": 0,
-      "inputModuleId": 2037,
+      "id": 5814,
+      "outputModuleId": 1684,
+      "outputId": 6,
+      "inputModuleId": 1940,
       "inputId": 0,
-      "color": "#c91847"
-    },
-    {
-      "id": 6025,
-      "outputModuleId": 2037,
-      "outputId": 0,
-      "inputModuleId": 1689,
-      "inputId": 10,
-      "color": "#c91847"
-    },
-    {
-      "id": 6026,
-      "outputModuleId": 2037,
-      "outputId": 1,
-      "inputModuleId": 1689,
-      "inputId": 11,
-      "color": "#c91847"
+      "color": "#0c8e15"
     }
   ]
 }
